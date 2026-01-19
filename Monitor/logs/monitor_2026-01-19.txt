@@ -1,0 +1,4 @@
+[2026-01-19 12:36:17] Memulai monitoring service: mqtt.service
+[2026-01-19 12:36:17] [STATUS] mqtt.service berubah jadi INACTIVE
+[2026-01-19 12:36:28] [TELEGRAM] Terkirim: [INFO] Status VAS1: Device Tidak Dapat Dipulihkan. Status Mqtt-OFF
+[2026-01-19 12:36:28] [INFO] Status VAS1: Device Tidak Dapat Dipulihkan. Status Mqtt-OFF
