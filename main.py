@@ -10,7 +10,8 @@ import os
 
 load_dotenv()
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
+# device = "cuda" if torch.cuda.is_available() else "cpu"
+USE_GPU = False
 
 firebase_config = {
     "apiKey": os.getenv("FIREBASE_API_KEY"),
@@ -29,7 +30,7 @@ uid = "8e7e46ee-d2d6-4dcc-b757-8ff7a69b9585"
 parameter_path = f"sound_machine/{uid}/parameter"
 
 print("Loading TTS model, please wait...")
-tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2", gpu=device)
+tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2", gpu=USE_GPU)
 print("Model loaded.")
 
 def run_sound(text_to_speak: str, model: str, volume: float=1.0, pitch: float=1.0, speed: float=1.0):
