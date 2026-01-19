@@ -27,13 +27,20 @@ parameter_path = f"sound_machine/{uid}/parameter"
 # Path audio opening
 OPENING_AUDIO_PATH = "./Control/assets/tts/opening.mp3"
 
+def mqtt_log(topic: str, payload: dict):
+    """Simulate MQTT-style print log"""
+    print(f"[MQTT] Topic: {topic} | Payload: {payload}")
+
+
 def play_opening():
     try:
         opening_audio = AudioSegment.from_file(OPENING_AUDIO_PATH)
         play(opening_audio)
         print("Played opening audio.")
+        mqtt_log("sound_machine/opening", {"status": "played"})
     except Exception as e:
         print("Error playing opening audio:", e)
+        mqtt_log("sound_machine/opening", {"status": "error", "error": str(e)})
 
 
 def run_sound(text_to_speak: str, volume: float=1.0, pitch: float=1.0, speed: float=1.0):
@@ -42,6 +49,8 @@ def run_sound(text_to_speak: str, volume: float=1.0, pitch: float=1.0, speed: fl
     speed  = max(0.5, min(speed, 2.0))
     
     print(f"Generating voice → pitch={pitch}, speed={speed}, volume={volume}")
+    mqtt_log("sound_machine/tts", {"status": "generating", "text": text_to_speak, 
+                                   "volume": volume, "pitch": pitch, "speed": speed})
     
     # Play opening audio first
     play_opening()
@@ -69,12 +78,15 @@ def run_sound(text_to_speak: str, volume: float=1.0, pitch: float=1.0, speed: fl
     
     play(audio)
     print("Done playing voice.")
+    mqtt_log("sound_machine/tts", {"status": "played"})
 
 
 print("Listening for is_running = true ...")
 while True:
     try:
         param = db.child(parameter_path).get().val()
+        mqtt_log(parameter_path, param or {"status": "empty"})
+        
         if param and param.get("is_running") == True:
             text_to_speak = param.get("text", "Hello world!")
             try:
@@ -88,6 +100,7 @@ while True:
             
             run_sound(text_to_speak, volume, pitch, speed)
             db.child(parameter_path).update({"is_running": False})
+            mqtt_log(parameter_path, {"is_running": False})
             print("is_running set to False")
         
         time.sleep(1)
@@ -96,4 +109,5 @@ while True:
         break
     except Exception as e:
         print("Error:", e)
+        mqtt_log(parameter_path, {"error": str(e)})
         time.sleep(5)
