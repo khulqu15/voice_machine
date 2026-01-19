@@ -56,7 +56,7 @@ def run_sound(text_to_speak: str, volume: float=1.0, pitch: float=1.0, speed: fl
     play_opening()
     
     # Generate TTS file
-    tts = gTTS(text=text_to_speak, lang='en')
+    tts = gTTS(text=text_to_speak, lang='id')
     tts.save("output.mp3")
     
     audio = AudioSegment.from_file("output.mp3")
