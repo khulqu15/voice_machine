@@ -24,6 +24,17 @@ db = firebase.database()
 uid = "8e7e46ee-d2d6-4dcc-b757-8ff7a69b9585"
 parameter_path = f"sound_machine/{uid}/parameter"
 
+# Path audio opening
+OPENING_AUDIO_PATH = "./Control/assets/tts/opening.mp3"
+
+def play_opening():
+    try:
+        opening_audio = AudioSegment.from_file(OPENING_AUDIO_PATH)
+        play(opening_audio)
+        print("Played opening audio.")
+    except Exception as e:
+        print("Error playing opening audio:", e)
+
 
 def run_sound(text_to_speak: str, volume: float=1.0, pitch: float=1.0, speed: float=1.0):
     volume = max(0.0, min(volume, 2.0))
@@ -31,6 +42,9 @@ def run_sound(text_to_speak: str, volume: float=1.0, pitch: float=1.0, speed: fl
     speed  = max(0.5, min(speed, 2.0))
     
     print(f"Generating voice → pitch={pitch}, speed={speed}, volume={volume}")
+    
+    # Play opening audio first
+    play_opening()
     
     # Generate TTS file
     tts = gTTS(text=text_to_speak, lang='en')
