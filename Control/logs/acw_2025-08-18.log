@@ -1,0 +1,4 @@
+2025-08-19 10:52:54,084 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-19 10:54:49,097 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-19 10:56:40,832 - ERROR - [ERROR] Gagal membaca collections one: interrupted at shutdown, full error: {'ok': 0.0, 'errmsg': 'interrupted at shutdown', 'code': 11600, 'codeName': 'InterruptedAtShutdown'}
+2025-08-19 10:57:11,927 - ERROR - [ERROR] Gagal membaca collections: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68a32c51ae3aac6c2be9d36d, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>

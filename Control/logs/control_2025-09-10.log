@@ -1,0 +1,32 @@
+2025-09-12 14:08:30,742 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:10:25,757 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:12:20,777 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:14:15,785 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:16:10,797 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:17:52,725 - INFO - Lamp ON (status: mqtt)
+2025-09-12 14:17:54,750 - INFO - Lamp OFF (status: mqtt)
+2025-09-12 14:17:56,763 - INFO - Lamp ON (status: mqtt)
+2025-09-12 14:17:58,691 - INFO - Lamp OFF (status: mqtt)
+2025-09-12 14:18:00,717 - INFO - Lamp ON (status: mqtt)
+2025-09-12 14:18:02,663 - INFO - Lamp OFF (status: mqtt)
+2025-09-12 14:18:04,713 - INFO - Lamp ON (status: mqtt)
+2025-09-12 14:18:05,814 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:18:07,287 - INFO - Lamp OFF (status: mqtt)
+2025-09-12 14:20:00,823 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:21:55,828 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:23:50,848 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:25:45,855 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:27:40,872 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:29:35,879 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:31:30,895 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:33:25,913 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:35:20,931 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:37:15,941 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:39:10,951 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:41:05,999 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:43:01,006 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:44:56,017 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:46:51,030 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:48:46,044 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-12 14:51:01,781 - ERROR - [ERROR] Gagal membaca collections: interrupted at shutdown, full error: {'ok': 0.0, 'errmsg': 'interrupted at shutdown', 'code': 11600, 'codeName': 'InterruptedAtShutdown'}
+2025-09-12 14:51:32,860 - ERROR - Terjadi kesalahan saat mengirim pesan update queue: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68c13bc006c8273a694062a3, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>

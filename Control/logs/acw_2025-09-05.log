@@ -1,0 +1,1359 @@
+2025-09-06 00:00:05,928 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 00:00:07,495 - INFO - Alarm Play: alarm2 (status: local)
+2025-09-06 00:00:07,495 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 00:00:18,596 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 00:00:20,109 - INFO - Alarm Play: alarm2 (status: local)
+2025-09-06 00:00:20,110 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 00:00:31,228 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 00:00:32,684 - INFO - Alarm Play: alarm2 (status: local)
+2025-09-06 00:00:32,685 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 00:00:43,816 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 00:00:45,198 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:00:45,198 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:00:56,055 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:00:57,725 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:00:57,725 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:08,607 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:10,360 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:01:10,360 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:21,235 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:23,042 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:01:23,042 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:33,906 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:35,590 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:01:35,590 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:46,447 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:48,117 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:01:48,118 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:58,994 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:01:59,033 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:02:00,673 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:02:00,674 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:02:11,535 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:02:13,255 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:02:13,255 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:02:24,125 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:02:25,737 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:02:25,737 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:02:36,584 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:02:38,350 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-06 00:02:38,351 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:02:49,214 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 00:02:50,921 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:02:50,921 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:01,793 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:03,432 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:03:03,432 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:14,303 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:15,917 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:03:15,917 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:26,754 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:28,435 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:03:28,435 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:39,302 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:40,968 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:03:40,968 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:51,872 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:03:53,586 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:03:53,587 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:04,462 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:04,497 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:04:06,078 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:04:06,079 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:16,919 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:18,688 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:04:18,688 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:29,545 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:31,214 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:04:31,219 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:42,090 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:44,070 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-06 00:04:44,070 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:54,934 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 00:04:56,128 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:04:56,129 - INFO - Play : hati-hati
+2025-09-06 00:04:59,711 - INFO - Done : hati-hati
+2025-09-06 00:05:01,559 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:01,559 - INFO - Play : hati-hati
+2025-09-06 00:05:05,175 - INFO - Done : hati-hati
+2025-09-06 00:05:06,776 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:06,776 - INFO - Play : hati-hati
+2025-09-06 00:05:10,380 - INFO - Done : hati-hati
+2025-09-06 00:05:12,068 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:12,068 - INFO - Play : hati-hati
+2025-09-06 00:05:15,670 - INFO - Done : hati-hati
+2025-09-06 00:05:17,316 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:17,316 - INFO - Play : hati-hati
+2025-09-06 00:05:20,916 - INFO - Done : hati-hati
+2025-09-06 00:05:22,602 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:22,603 - INFO - Play : hati-hati
+2025-09-06 00:05:26,212 - INFO - Done : hati-hati
+2025-09-06 00:05:27,893 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:27,894 - INFO - Play : hati-hati
+2025-09-06 00:05:31,497 - INFO - Done : hati-hati
+2025-09-06 00:05:33,227 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:33,228 - INFO - Play : hati-hati
+2025-09-06 00:05:36,829 - INFO - Done : hati-hati
+2025-09-06 00:05:38,438 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:38,439 - INFO - Play : hati-hati
+2025-09-06 00:05:42,034 - INFO - Done : hati-hati
+2025-09-06 00:05:43,707 - INFO - TTS Play: hati-hati (status: local)
+2025-09-06 00:05:43,708 - INFO - Play : hati-hati
+2025-09-06 00:05:47,329 - INFO - Done : hati-hati
+2025-09-06 00:05:48,978 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:05:48,978 - INFO - Play : silahkan jalan
+2025-09-06 00:05:52,911 - INFO - Done : silahkan jalan
+2025-09-06 00:05:54,252 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:05:54,252 - INFO - Play : silahkan jalan
+2025-09-06 00:05:58,200 - INFO - Done : silahkan jalan
+2025-09-06 00:05:59,533 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:05:59,540 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:05:59,540 - INFO - Play : silahkan jalan
+2025-09-06 00:06:03,501 - INFO - Done : silahkan jalan
+2025-09-06 00:06:04,830 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:06:04,830 - INFO - Play : silahkan jalan
+2025-09-06 00:06:08,787 - INFO - Done : silahkan jalan
+2025-09-06 00:06:10,056 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:06:10,058 - INFO - Play : silahkan jalan
+2025-09-06 00:06:13,990 - INFO - Done : silahkan jalan
+2025-09-06 00:06:15,328 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:06:15,328 - INFO - Play : silahkan jalan
+2025-09-06 00:06:19,280 - INFO - Done : silahkan jalan
+2025-09-06 00:06:20,581 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:06:20,581 - INFO - Play : silahkan jalan
+2025-09-06 00:06:24,533 - INFO - Done : silahkan jalan
+2025-09-06 00:06:25,847 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:06:25,847 - INFO - Play : silahkan jalan
+2025-09-06 00:06:29,778 - INFO - Done : silahkan jalan
+2025-09-06 00:06:31,115 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:06:31,115 - INFO - Play : silahkan jalan
+2025-09-06 00:06:35,069 - INFO - Done : silahkan jalan
+2025-09-06 00:06:36,338 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-06 00:06:36,338 - INFO - Play : silahkan jalan
+2025-09-06 00:06:40,273 - INFO - Done : silahkan jalan
+2025-09-06 00:06:41,631 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:06:41,631 - INFO - Play : berhenti
+2025-09-06 00:06:45,099 - INFO - Done : berhenti
+2025-09-06 00:06:46,936 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:06:46,936 - INFO - Play : berhenti
+2025-09-06 00:06:50,429 - INFO - Done : berhenti
+2025-09-06 00:06:52,143 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:06:52,143 - INFO - Play : berhenti
+2025-09-06 00:06:55,633 - INFO - Done : berhenti
+2025-09-06 00:06:57,365 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:06:57,365 - INFO - Play : berhenti
+2025-09-06 00:07:00,843 - INFO - Done : berhenti
+2025-09-06 00:07:02,609 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:07:02,610 - INFO - Play : berhenti
+2025-09-06 00:07:06,092 - INFO - Done : berhenti
+2025-09-06 00:07:07,834 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:07:07,834 - INFO - Play : berhenti
+2025-09-06 00:07:11,292 - INFO - Done : berhenti
+2025-09-06 00:07:13,223 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:07:13,224 - INFO - Play : berhenti
+2025-09-06 00:07:16,710 - INFO - Done : berhenti
+2025-09-06 00:07:18,398 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:07:18,400 - INFO - Play : berhenti
+2025-09-06 00:07:21,875 - INFO - Done : berhenti
+2025-09-06 00:07:23,664 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:07:23,664 - INFO - Play : berhenti
+2025-09-06 00:07:27,122 - INFO - Done : berhenti
+2025-09-06 00:07:28,944 - INFO - TTS Play: berhenti (status: local)
+2025-09-06 00:07:28,944 - INFO - Play : berhenti
+2025-09-06 00:07:32,411 - INFO - Done : berhenti
+2025-09-06 00:07:34,199 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:07:34,199 - INFO - Play : peringatan bahaya
+2025-09-06 00:07:38,302 - INFO - Done : peringatan bahaya
+2025-09-06 00:07:39,513 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:07:39,514 - INFO - Play : peringatan bahaya
+2025-09-06 00:07:43,632 - INFO - Done : peringatan bahaya
+2025-09-06 00:07:44,782 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:07:44,782 - INFO - Play : peringatan bahaya
+2025-09-06 00:07:48,884 - INFO - Done : peringatan bahaya
+2025-09-06 00:07:50,020 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:07:50,020 - INFO - Play : peringatan bahaya
+2025-09-06 00:07:54,130 - INFO - Done : peringatan bahaya
+2025-09-06 00:07:54,556 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:07:55,305 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:07:55,305 - INFO - Play : peringatan bahaya
+2025-09-06 00:07:59,420 - INFO - Done : peringatan bahaya
+2025-09-06 00:08:01,538 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:08:01,539 - INFO - Play : peringatan bahaya
+2025-09-06 00:08:05,649 - INFO - Done : peringatan bahaya
+2025-09-06 00:08:06,834 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:08:06,834 - INFO - Play : peringatan bahaya
+2025-09-06 00:08:10,942 - INFO - Done : peringatan bahaya
+2025-09-06 00:08:13,105 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:08:13,106 - INFO - Play : peringatan bahaya
+2025-09-06 00:08:17,212 - INFO - Done : peringatan bahaya
+2025-09-06 00:08:39,309 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:08:39,309 - INFO - Play : peringatan bahaya
+2025-09-06 00:08:43,420 - INFO - Done : peringatan bahaya
+2025-09-06 00:08:44,574 - INFO - TTS Play: peringatan bahaya (status: local)
+2025-09-06 00:08:44,574 - INFO - Play : peringatan bahaya
+2025-09-06 00:08:48,701 - INFO - Done : peringatan bahaya
+2025-09-06 00:09:49,589 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:11:44,604 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:13:39,624 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:15:34,660 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:17:29,683 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:19:24,698 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:21:19,717 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:23:14,732 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:25:09,744 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:27:04,759 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:28:59,782 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:30:54,801 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:32:49,805 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:34:44,818 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:36:39,855 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:38:34,876 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:40:29,911 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:42:24,928 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:44:19,952 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:46:14,962 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:48:09,976 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:50:05,013 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:52:00,045 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:53:55,058 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:55:50,067 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:57:45,080 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 00:59:40,090 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:01:35,101 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:03:30,131 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:05:25,146 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:07:20,212 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:09:15,246 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:11:10,268 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:13:05,300 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:15:00,338 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:16:55,366 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:18:50,390 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:20:45,396 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:22:40,420 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:24:35,443 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:26:30,451 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:28:25,474 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:30:20,501 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:32:15,531 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:34:10,558 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:36:05,579 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:38:00,603 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:39:55,639 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:41:50,657 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:43:45,672 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:45:40,678 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:47:35,709 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:49:30,716 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:51:25,736 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:53:20,745 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:55:15,776 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:57:10,808 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 01:59:05,827 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:01:00,837 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:02:55,859 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:04:50,874 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:06:45,888 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:08:40,896 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:10:35,905 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:12:30,914 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:14:25,922 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:16:20,927 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:18:15,949 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:20:10,964 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:22:05,990 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:24:01,023 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:25:56,027 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:27:51,035 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:29:46,045 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:31:41,072 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:33:36,091 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:35:31,114 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:37:26,119 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:39:21,136 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:41:16,167 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:43:11,185 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:45:06,207 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:47:01,236 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:48:56,252 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:50:51,285 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:52:46,301 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:54:41,309 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:56:36,323 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 02:58:31,332 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:00:26,366 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:02:21,395 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:04:16,425 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:06:11,452 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:08:06,463 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:10:01,493 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:11:56,546 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:13:51,567 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:15:46,579 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:17:41,598 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:19:36,603 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:21:31,628 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:23:26,645 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:25:21,660 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:27:16,681 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:29:11,713 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:31:06,736 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:33:01,741 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:34:56,762 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:36:51,779 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:38:46,798 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:40:41,809 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:42:36,836 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:44:31,855 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:46:26,875 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:48:21,903 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:50:16,919 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:52:11,932 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:54:06,954 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:56:01,961 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:57:56,980 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 03:59:52,014 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:01:47,030 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:03:42,040 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:05:37,069 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:07:32,089 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:09:27,106 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:11:22,190 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:13:17,224 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:15:12,231 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:17:07,250 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:19:02,279 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:20:57,304 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:22:52,337 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:24:47,361 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:26:42,380 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:28:37,410 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:30:32,425 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:32:27,456 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:34:22,487 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:36:17,496 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:38:12,526 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:40:07,547 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:42:02,566 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:43:57,586 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:45:52,594 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:47:47,609 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:49:42,631 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:51:37,655 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:53:32,667 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:55:27,693 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:57:22,708 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 04:59:17,727 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:01:12,739 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:03:07,750 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:05:02,783 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:06:57,802 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:08:52,806 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:10:47,828 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:12:42,843 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:14:37,870 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:16:32,889 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:18:27,914 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:20:22,922 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:22:17,939 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:24:12,966 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:26:07,978 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:28:02,993 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:29:58,013 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:31:53,025 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:33:48,037 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:35:43,049 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:37:38,069 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:39:33,094 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:41:28,120 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:43:23,149 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:45:18,172 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:47:13,183 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:49:08,201 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:51:03,236 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:52:58,262 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:54:53,295 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:56:48,316 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 05:58:43,338 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:00:38,364 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:02:33,393 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:04:28,414 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:06:23,419 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:08:18,443 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:10:13,467 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:12:08,490 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:14:03,507 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:15:58,525 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:17:53,530 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:19:48,556 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:21:43,565 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:23:38,592 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:25:33,609 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:27:28,621 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:29:23,650 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:31:18,667 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:33:13,704 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:35:08,724 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:37:03,746 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:38:58,779 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:40:53,809 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:42:48,822 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:44:43,835 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:46:38,850 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:48:33,855 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:50:28,883 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:52:23,907 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:54:18,928 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:56:13,958 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:57:52,998 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 06:57:52,998 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 06:58:03,867 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 06:58:05,109 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 06:58:05,110 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 06:58:16,243 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 06:58:16,281 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 06:58:16,287 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 06:58:16,292 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 06:58:27,153 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 06:58:27,194 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 06:58:27,198 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 06:58:38,046 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 06:58:38,086 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 06:58:38,091 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 06:58:48,963 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 06:58:48,999 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 06:58:49,003 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 06:59:00,105 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 06:59:01,990 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 06:59:01,990 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 06:59:08,083 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 06:59:09,932 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 06:59:09,932 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 06:59:21,009 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 06:59:22,998 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 06:59:22,999 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 06:59:34,067 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 06:59:34,107 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 06:59:34,116 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 06:59:45,201 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 06:59:45,233 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 06:59:45,238 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 06:59:56,291 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 06:59:56,325 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 06:59:56,331 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:07,390 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:07,427 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:00:07,431 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:18,515 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:18,550 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:00:18,554 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:00:18,557 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:29,614 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:29,648 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:00:29,652 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:40,709 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:40,743 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:00:40,747 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:51,800 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:00:51,833 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:00:51,838 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:01:02,894 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:01:02,931 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:01:02,934 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:01:13,982 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:01:14,019 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:01:14,025 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:01:25,122 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:01:25,154 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:01:25,159 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:01:36,260 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:01:39,224 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:01:39,225 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:01:50,341 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:01:50,371 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:01:50,375 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:01,435 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:01,468 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:02:01,472 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:02:12,354 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:02:12,394 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:02:12,397 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:23,494 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:23,525 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:02:23,529 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:02:23,534 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:34,623 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:37,103 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:02:37,103 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:48,194 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:48,229 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:02:48,232 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:59,329 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:02:59,367 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:02:59,375 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:10,468 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:10,505 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:03:10,508 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:21,601 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:21,642 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:03:21,648 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:32,742 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:32,775 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:03:32,780 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:43,874 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:43,906 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:03:43,910 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:54,969 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:03:55,009 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:03:55,013 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:04:06,104 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:04:06,134 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:04:06,138 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:04:17,196 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:04:17,242 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:04:17,249 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:04:28,335 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:04:28,366 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:04:28,371 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:04:28,376 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:04:39,459 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:04:39,544 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:04:39,548 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:04:50,640 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:04:56,205 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:04:56,206 - INFO - Play : Test 0
+2025-09-06 07:04:59,690 - INFO - Done : Test 0
+2025-09-06 07:04:59,722 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:04:59,727 - INFO - Play : Test 1
+2025-09-06 07:05:03,318 - INFO - Done : Test 1
+2025-09-06 07:05:03,360 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:05:03,364 - INFO - Play : Test 2
+2025-09-06 07:05:06,863 - INFO - Done : Test 2
+2025-09-06 07:05:06,894 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:05:06,898 - INFO - Play : Test 3
+2025-09-06 07:05:10,356 - INFO - Done : Test 3
+2025-09-06 07:05:10,389 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:05:10,392 - INFO - Play : Test 4
+2025-09-06 07:05:13,977 - INFO - Done : Test 4
+2025-09-06 07:05:18,188 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:05:18,189 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:05:24,261 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:05:26,192 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:05:26,192 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:05:37,057 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:05:37,090 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:05:37,096 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:05:47,948 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:05:47,980 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:05:47,984 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:05:59,036 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:05:59,077 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:05:59,082 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:06:09,959 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:06:09,993 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:06:09,998 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:06:20,844 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:06:23,392 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:06:24,318 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:06:24,318 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:06:35,393 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:06:35,425 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:06:35,429 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:06:46,489 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:06:46,523 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:06:46,526 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:06:57,369 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:06:57,402 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:06:57,406 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:08,501 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:08,532 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:07:08,536 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:19,636 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:21,501 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:07:23,311 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:07:25,297 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:07:25,297 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:36,360 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:36,396 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:07:36,400 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:47,453 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:47,489 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:07:47,492 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:58,547 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:07:58,578 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:07:58,582 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:09,636 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:09,678 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:08:09,682 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:20,780 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:20,810 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:08:20,814 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:08:20,816 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:31,874 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:31,907 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:08:31,915 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:42,954 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:42,989 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:08:42,992 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:54,061 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:08:54,098 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:08:54,101 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:09:05,184 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:09:05,223 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:09:05,227 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:09:16,287 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:09:16,328 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:09:16,332 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:09:27,415 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:09:27,453 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:09:27,456 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:09:38,553 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:09:40,619 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:09:40,619 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:09:51,735 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:09:53,370 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:09:55,388 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:09:57,401 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:09:59,408 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:10:01,848 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:10:04,404 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:10:06,392 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:10:08,388 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:10:10,414 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:10:12,389 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:10:14,405 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:10:14,405 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:10:25,486 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:10:25,584 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:10:25,588 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:10:25,591 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:10:36,668 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:10:36,706 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:10:36,710 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:10:47,808 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:10:47,850 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:10:47,854 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:10:58,933 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:10:58,973 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:10:58,977 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:10,038 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:10,085 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:11:10,089 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:21,164 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:21,200 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:11:21,204 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:32,268 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:32,304 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:11:32,308 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:43,400 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:43,436 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:11:43,441 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:54,490 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:11:54,529 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:11:54,533 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:12:05,583 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:12:05,620 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:12:05,625 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:12:16,679 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:12:16,716 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:12:16,720 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:12:27,818 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:12:27,859 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:12:30,508 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:12:32,516 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:12:34,943 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:12:34,943 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:12:46,036 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:12:46,069 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:12:46,073 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:12:57,169 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:12:57,202 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:12:57,205 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:13:08,304 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:13:08,335 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:13:08,339 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:13:19,186 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:13:19,228 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:13:19,231 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:13:30,363 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:13:32,624 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:13:34,549 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:13:36,545 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:13:39,016 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:13:40,535 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:13:42,560 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:13:44,555 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:13:46,566 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:13:48,563 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:13:50,567 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:13:52,589 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:13:52,589 - INFO - Play : Test 0
+2025-09-06 07:13:56,048 - INFO - Done : Test 0
+2025-09-06 07:13:56,080 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:13:56,083 - INFO - Play : Test 1
+2025-09-06 07:13:59,678 - INFO - Done : Test 1
+2025-09-06 07:13:59,714 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:13:59,718 - INFO - Play : Test 2
+2025-09-06 07:14:03,217 - INFO - Done : Test 2
+2025-09-06 07:14:03,255 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:14:03,258 - INFO - Play : Test 3
+2025-09-06 07:14:06,760 - INFO - Done : Test 3
+2025-09-06 07:14:06,793 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:14:06,796 - INFO - Play : Test 4
+2025-09-06 07:14:10,427 - INFO - Done : Test 4
+2025-09-06 07:14:13,592 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:14:13,592 - INFO - Play : Test 0
+2025-09-06 07:14:17,084 - INFO - Done : Test 0
+2025-09-06 07:14:17,123 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:14:17,126 - INFO - Play : Test 1
+2025-09-06 07:14:20,753 - INFO - Done : Test 1
+2025-09-06 07:14:20,790 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:14:20,794 - INFO - Play : Test 2
+2025-09-06 07:14:24,293 - INFO - Done : Test 2
+2025-09-06 07:14:24,331 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:14:24,335 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:14:24,337 - INFO - Play : Test 3
+2025-09-06 07:14:27,831 - INFO - Done : Test 3
+2025-09-06 07:14:27,865 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:14:27,871 - INFO - Play : Test 4
+2025-09-06 07:14:31,460 - INFO - Done : Test 4
+2025-09-06 07:14:34,612 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:14:34,612 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:14:40,672 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:14:42,576 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:14:45,072 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:14:46,841 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:14:48,863 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:14:52,060 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:14:54,617 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:14:56,637 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:14:58,808 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:15:01,622 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:15:03,688 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:15:05,617 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:15:05,618 - INFO - Play : Test 0
+2025-09-06 07:15:09,091 - INFO - Done : Test 0
+2025-09-06 07:15:09,126 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:15:09,130 - INFO - Play : Test 1
+2025-09-06 07:15:12,718 - INFO - Done : Test 1
+2025-09-06 07:15:12,754 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:15:12,758 - INFO - Play : Test 2
+2025-09-06 07:15:16,214 - INFO - Done : Test 2
+2025-09-06 07:15:16,248 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:15:16,251 - INFO - Play : Test 3
+2025-09-06 07:15:19,720 - INFO - Done : Test 3
+2025-09-06 07:15:19,757 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:15:19,762 - INFO - Play : Test 4
+2025-09-06 07:15:23,387 - INFO - Done : Test 4
+2025-09-06 07:15:26,632 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:15:26,632 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:15:37,726 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:15:37,764 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:15:37,769 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:15:48,862 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:15:48,898 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:15:48,903 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:15:59,996 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:00,035 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:16:00,038 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:11,132 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:11,165 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:16:11,170 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:22,222 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:22,311 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:16:22,315 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:16:22,318 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:33,407 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:33,444 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:16:33,450 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:44,537 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:44,569 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:16:44,573 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:55,631 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:16:55,667 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:16:55,671 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:17:06,762 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:17:06,800 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:17:06,803 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:17:17,859 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:17:17,891 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:17:17,895 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:17:28,951 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:17:28,983 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:17:28,987 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:17:40,092 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:17:42,832 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:17:42,832 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:17:53,949 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:17:53,985 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:17:53,989 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:18:04,839 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:18:04,873 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:18:04,880 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:18:15,762 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:18:15,800 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:18:15,804 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:18:26,639 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:18:26,678 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:18:26,681 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:18:26,684 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:18:37,821 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:18:39,854 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:18:39,854 - INFO - Play : Test 0
+2025-09-06 07:18:43,319 - INFO - Done : Test 0
+2025-09-06 07:18:43,353 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:18:43,359 - INFO - Play : Test 1
+2025-09-06 07:18:46,945 - INFO - Done : Test 1
+2025-09-06 07:18:46,978 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:18:46,982 - INFO - Play : Test 2
+2025-09-06 07:18:50,443 - INFO - Done : Test 2
+2025-09-06 07:18:50,476 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:18:50,479 - INFO - Play : Test 3
+2025-09-06 07:18:53,947 - INFO - Done : Test 3
+2025-09-06 07:18:53,982 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:18:53,986 - INFO - Play : Test 4
+2025-09-06 07:18:57,611 - INFO - Done : Test 4
+2025-09-06 07:19:00,893 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:19:02,826 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:19:04,814 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:19:06,794 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:19:08,823 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:19:10,823 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:19:12,804 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:19:14,868 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:19:16,830 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:19:18,812 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:19:20,831 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:19:20,831 - INFO - Play : Test 0
+2025-09-06 07:19:24,325 - INFO - Done : Test 0
+2025-09-06 07:19:24,362 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:19:24,368 - INFO - Play : Test 1
+2025-09-06 07:19:27,990 - INFO - Done : Test 1
+2025-09-06 07:19:28,026 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:19:28,030 - INFO - Play : Test 2
+2025-09-06 07:19:31,534 - INFO - Done : Test 2
+2025-09-06 07:19:31,569 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:19:31,573 - INFO - Play : Test 3
+2025-09-06 07:19:35,030 - INFO - Done : Test 3
+2025-09-06 07:19:35,064 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:19:35,068 - INFO - Play : Test 4
+2025-09-06 07:19:38,699 - INFO - Done : Test 4
+2025-09-06 07:19:41,847 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:19:41,847 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:19:52,951 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:19:52,985 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:19:52,989 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:20:04,090 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:20:04,123 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:20:04,127 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:20:14,968 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:20:15,003 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:20:15,007 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:20:26,060 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:20:26,093 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:20:26,097 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:20:26,099 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:20:37,195 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:20:39,875 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:20:39,876 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:20:45,939 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:20:47,866 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:20:47,871 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:20:53,965 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:20:56,354 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:20:56,354 - INFO - Play : Test 0
+2025-09-06 07:20:59,856 - INFO - Done : Test 0
+2025-09-06 07:20:59,890 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:20:59,894 - INFO - Play : Test 1
+2025-09-06 07:21:03,514 - INFO - Done : Test 1
+2025-09-06 07:21:03,553 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:21:03,557 - INFO - Play : Test 2
+2025-09-06 07:21:07,054 - INFO - Done : Test 2
+2025-09-06 07:21:07,093 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:21:07,096 - INFO - Play : Test 3
+2025-09-06 07:21:10,564 - INFO - Done : Test 3
+2025-09-06 07:21:10,600 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:21:10,604 - INFO - Play : Test 4
+2025-09-06 07:21:14,185 - INFO - Done : Test 4
+2025-09-06 07:21:16,953 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:21:18,939 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:21:20,931 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:21:22,913 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:21:24,912 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:21:27,343 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:21:29,925 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:21:31,961 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:21:33,965 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:21:35,921 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:21:37,893 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:21:37,894 - INFO - Play : Test 0
+2025-09-06 07:21:41,370 - INFO - Done : Test 0
+2025-09-06 07:21:41,403 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:21:41,407 - INFO - Play : Test 1
+2025-09-06 07:21:45,039 - INFO - Done : Test 1
+2025-09-06 07:21:45,077 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:21:45,080 - INFO - Play : Test 2
+2025-09-06 07:21:48,574 - INFO - Done : Test 2
+2025-09-06 07:21:48,614 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:21:48,621 - INFO - Play : Test 3
+2025-09-06 07:21:52,076 - INFO - Done : Test 3
+2025-09-06 07:21:52,108 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:21:52,112 - INFO - Play : Test 4
+2025-09-06 07:21:55,705 - INFO - Done : Test 4
+2025-09-06 07:21:58,955 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:21:58,955 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:22:05,045 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:22:06,911 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:22:06,911 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:22:17,965 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:22:17,997 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:22:18,002 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:22:29,065 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:22:29,105 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:22:29,109 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:22:29,111 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:22:40,207 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:22:40,242 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:22:40,246 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:22:51,341 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:22:51,375 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:22:51,378 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:02,474 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:02,506 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:23:02,509 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:13,568 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:13,602 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:23:13,606 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:24,705 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:24,741 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:23:24,745 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:35,839 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:35,879 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:23:35,883 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:46,973 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:47,020 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:23:47,024 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:58,108 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:23:58,144 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:23:58,148 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:24:09,208 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:24:09,247 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:24:09,251 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:24:20,386 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:24:23,178 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:24:23,178 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:24:34,035 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:24:34,074 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:24:34,078 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:24:34,083 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:24:45,217 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:24:45,258 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:24:45,262 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:24:56,397 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:24:56,436 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:24:56,440 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:25:07,569 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:25:07,606 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:25:07,610 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:25:18,707 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:25:21,084 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:25:21,084 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:25:32,152 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:25:32,188 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:25:32,193 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:25:43,238 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:25:43,275 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:25:43,279 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:25:54,331 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:25:54,366 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:25:54,370 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:05,469 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:05,507 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:26:05,511 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:16,567 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:16,603 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:26:16,607 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:27,695 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:27,734 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:26:27,737 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:38,793 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:38,828 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:26:38,831 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:26:38,837 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:49,882 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:26:49,920 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:26:49,927 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:27:00,972 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:27:01,010 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:27:01,014 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:27:12,075 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:27:12,110 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:27:12,114 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:27:23,207 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:27:23,249 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:27:23,254 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:27:34,388 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:27:37,185 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:27:37,185 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:27:48,039 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:27:49,269 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:27:49,270 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:28:00,161 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:28:01,384 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:28:03,168 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:28:05,184 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:28:07,187 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:28:10,278 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:28:12,192 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:28:14,197 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:28:16,190 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:28:18,236 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:28:21,213 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:28:23,200 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:28:23,201 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:28:34,293 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:28:34,327 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:28:34,331 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:28:34,334 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:28:45,428 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:28:45,466 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:28:45,469 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:28:56,516 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:28:56,551 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:28:56,555 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:07,612 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:07,644 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:29:07,650 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:18,699 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:18,732 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:29:18,736 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:29,797 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:29,833 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:29:29,838 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:40,896 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:40,929 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:29:40,932 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:52,031 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:29:52,067 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:29:52,072 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:30:03,164 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:30:03,201 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:30:03,207 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:30:14,299 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:30:14,341 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:30:14,344 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:30:25,433 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:30:25,473 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:30:25,477 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:30:36,574 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:30:36,620 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:30:41,341 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:30:44,399 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:30:46,301 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:30:48,287 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:30:50,279 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:30:52,315 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:30:54,338 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:30:56,293 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:30:58,322 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:30:58,323 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:31:04,391 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:31:06,307 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:31:06,307 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:31:17,402 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:31:17,447 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:31:17,450 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:31:28,541 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:31:28,580 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:31:28,583 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:31:39,674 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:31:39,714 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:31:39,718 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:31:50,771 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:31:50,805 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:31:50,809 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:01,897 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:01,937 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:32:01,942 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:13,036 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:13,074 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:32:13,077 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:24,172 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:24,209 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:32:24,213 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:35,271 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:35,311 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:32:35,315 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:32:35,320 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:46,399 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:46,436 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:32:46,441 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:57,501 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:32:57,537 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:32:57,544 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:33:08,632 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:33:08,667 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:33:08,671 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:33:19,767 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:33:24,939 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:33:26,407 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:33:28,423 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:33:28,423 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:33:39,483 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:33:41,444 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:33:41,445 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:33:47,538 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:33:49,415 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:33:49,415 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:00,475 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:00,509 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:34:00,512 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:11,572 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:11,608 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:34:11,612 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:22,703 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:22,740 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:34:22,743 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:33,838 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:33,877 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:34:33,881 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:34:33,884 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:44,968 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:45,015 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:34:45,018 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:56,107 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:34:56,142 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:34:56,145 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:07,207 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:07,241 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:35:07,246 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:18,335 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:18,369 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:35:18,373 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:29,434 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:29,475 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:35:29,481 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:40,572 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:40,630 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:35:40,635 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:51,710 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:35:51,766 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:35:51,772 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:36:02,887 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:36:07,590 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:36:07,590 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:36:18,455 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:36:20,986 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:22,517 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:24,532 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:26,544 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:28,534 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:28,917 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:36:30,523 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:32,545 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:34,987 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:36,559 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:38,528 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:40,530 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:42,994 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:44,559 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:46,582 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:48,584 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:50,578 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:52,593 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:54,579 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:36:56,588 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:36:58,587 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:37:00,566 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:37:00,566 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:37:11,657 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:37:11,698 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:37:11,706 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:37:22,838 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:37:22,875 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:37:22,880 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:37:33,974 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:37:34,014 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:37:34,019 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:37:44,898 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:37:44,933 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:37:44,938 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:37:55,814 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:37:58,628 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:37:58,628 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:38:09,691 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:38:09,741 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:38:09,746 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:38:20,606 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:38:20,640 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:38:20,645 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:38:31,484 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:38:31,524 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:38:31,528 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:38:31,531 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:38:42,412 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:38:42,477 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:38:42,487 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:38:53,343 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:38:55,676 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:38:57,681 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:38:59,720 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:39:01,735 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:39:04,740 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:39:04,741 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:39:10,841 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:39:12,707 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:39:15,149 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:39:16,767 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:39:18,821 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:39:21,727 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:39:24,126 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:39:26,190 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:39:27,739 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:39:29,724 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:39:31,714 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:39:33,765 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:39:33,766 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:39:44,621 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:39:44,661 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:39:44,665 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:39:55,727 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:39:55,767 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:39:55,770 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:40:06,649 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:40:06,687 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:40:06,691 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:40:17,823 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:40:17,862 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:40:17,869 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:40:29,001 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:40:29,043 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:40:32,800 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:40:32,801 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:40:43,890 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:40:43,931 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:40:43,935 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:40:54,813 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:40:54,855 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:40:54,858 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:41:05,992 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:41:06,029 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:41:06,035 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:41:16,871 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:41:16,911 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-09-06 07:41:16,915 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:41:27,749 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-06 07:41:31,912 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-09-06 07:41:31,912 - INFO - Play : Test 0
+2025-09-06 07:41:35,392 - INFO - Done : Test 0
+2025-09-06 07:41:35,430 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-09-06 07:41:35,433 - INFO - Play : Test 1
+2025-09-06 07:41:39,058 - INFO - Done : Test 1
+2025-09-06 07:41:39,092 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-09-06 07:41:39,096 - INFO - Play : Test 2
+2025-09-06 07:41:42,553 - INFO - Done : Test 2
+2025-09-06 07:41:42,586 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-09-06 07:41:42,590 - INFO - Play : Test 3
+2025-09-06 07:41:46,057 - INFO - Done : Test 3
+2025-09-06 07:41:46,095 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-09-06 07:41:46,099 - INFO - Play : Test 4
+2025-09-06 07:41:49,684 - INFO - Done : Test 4
+2025-09-06 07:41:52,806 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:41:54,826 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:41:56,833 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:41:58,823 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:42:00,826 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:42:02,806 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:42:05,231 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:42:06,891 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:42:08,807 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:42:10,822 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:42:12,883 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:42:12,883 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:42:23,989 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:42:24,087 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:42:25,828 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-06 07:42:25,828 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:42:31,925 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-06 07:42:34,364 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:42:34,364 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:42:45,448 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:42:45,493 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:42:45,496 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:42:56,588 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:42:56,630 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:42:56,634 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:07,722 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:07,769 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:43:07,773 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:18,854 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:18,891 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:43:18,895 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:29,950 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:29,984 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:43:29,988 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:41,046 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:41,088 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:43:41,091 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:52,177 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:43:52,216 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:43:52,220 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:44:03,270 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:44:03,312 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:44:03,317 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:44:14,408 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:44:14,450 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:44:14,456 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:44:25,546 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:44:25,587 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:44:25,591 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:44:25,594 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:44:36,682 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:44:36,719 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:44:36,723 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:44:47,809 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:44:51,952 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:44:51,952 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:03,051 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:03,093 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:45:03,097 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:14,186 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:14,221 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:45:14,225 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:25,323 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:25,360 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:45:25,364 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:36,414 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:36,450 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:45:36,454 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:47,506 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:47,556 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:45:47,561 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:58,643 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:45:58,684 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:45:58,688 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:09,777 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:09,815 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:46:09,818 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:20,871 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:20,910 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:46:20,914 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:46:20,916 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:32,011 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:32,052 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:46:32,056 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:43,144 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:43,177 - INFO - Alarm Play: alarm1 (status: mqtt)
+2025-09-06 07:46:43,182 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:54,283 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-06 07:46:54,325 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-09-06 07:46:54,335 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:47:05,459 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-06 07:47:10,093 - INFO - Lamp ON (status: mqtt)
+2025-09-06 07:47:12,066 - INFO - Lamp OFF (status: mqtt)
+2025-09-06 07:47:14,050 - INFO - Alarm Play: alarm4 (status: mqtt)
+2025-09-06 07:47:14,050 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:47:24,908 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-06 07:48:15,919 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:50:10,958 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-06 07:52:05,978 - INFO - 1 data di 'queue' berhasil diupdate.

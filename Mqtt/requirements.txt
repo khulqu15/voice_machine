@@ -1,0 +1,6 @@
+paho-mqtt
+pytz
+psutil
+pymongo
+motor
+requests

@@ -1,0 +1,5 @@
+2025-11-30 18:36:29,344 - INFO - Voice Alarm Device Control is ON
+2025-11-30 18:36:29,364 - INFO - Lamp OFF (status: mqtt)
+2025-11-30 18:36:29,379 - INFO - Lamp ON (status: mqtt)
+2025-11-30 18:36:32,655 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-30 18:36:34,157 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3

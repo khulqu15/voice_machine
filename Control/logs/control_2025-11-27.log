@@ -1,0 +1,1172 @@
+2025-11-28 00:00:00,069 - INFO - [2025-11-28 00:00:00.068893] Collection 'requests' dihapus 1366 dokumen.
+2025-11-28 00:00:00,156 - INFO - [2025-11-28 00:00:00.156636] Collection 'responses' dihapus 1865 dokumen.
+2025-11-28 00:00:00,165 - INFO - [2025-11-28 00:00:00.165605] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-28 00:00:00,170 - INFO - [2025-11-28 00:00:00.169970] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-28 00:00:01,181 - INFO - [2025-11-28 00:00:01.181247] Collection 'requests' dihapus 0 dokumen.
+2025-11-28 00:00:01,184 - INFO - [2025-11-28 00:00:01.183964] Collection 'responses' dihapus 0 dokumen.
+2025-11-28 00:00:01,186 - INFO - [2025-11-28 00:00:01.186897] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-28 00:00:01,189 - INFO - [2025-11-28 00:00:01.189848] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-28 00:00:02,199 - INFO - [2025-11-28 00:00:02.198938] Collection 'requests' dihapus 0 dokumen.
+2025-11-28 00:00:02,201 - INFO - [2025-11-28 00:00:02.201168] Collection 'responses' dihapus 0 dokumen.
+2025-11-28 00:00:02,204 - INFO - [2025-11-28 00:00:02.204207] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-28 00:00:02,206 - INFO - [2025-11-28 00:00:02.206414] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-28 00:00:03,216 - INFO - [2025-11-28 00:00:03.216153] Collection 'requests' dihapus 0 dokumen.
+2025-11-28 00:00:03,218 - INFO - [2025-11-28 00:00:03.218356] Collection 'responses' dihapus 0 dokumen.
+2025-11-28 00:00:03,221 - INFO - [2025-11-28 00:00:03.221034] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-28 00:00:03,223 - INFO - [2025-11-28 00:00:03.223428] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-28 00:00:04,235 - INFO - [2025-11-28 00:00:04.235227] Collection 'requests' dihapus 0 dokumen.
+2025-11-28 00:00:04,237 - INFO - [2025-11-28 00:00:04.237622] Collection 'responses' dihapus 0 dokumen.
+2025-11-28 00:00:04,240 - INFO - [2025-11-28 00:00:04.239963] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-28 00:00:04,242 - INFO - [2025-11-28 00:00:04.242419] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-28 00:00:05,252 - INFO - [2025-11-28 00:00:05.252187] Collection 'requests' dihapus 0 dokumen.
+2025-11-28 00:00:05,254 - INFO - [2025-11-28 00:00:05.254402] Collection 'responses' dihapus 0 dokumen.
+2025-11-28 00:00:05,256 - INFO - [2025-11-28 00:00:05.256851] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-28 00:00:05,259 - INFO - [2025-11-28 00:00:05.259474] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-28 00:00:32,479 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:02:27,488 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:04:22,491 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:05:34,971 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 00:05:36,473 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 00:05:47,348 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 00:05:47,355 - INFO - Lamp ON (status: mqtt)
+2025-11-28 00:05:47,365 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 00:05:47,374 - INFO - Lamp ON (status: mqtt)
+2025-11-28 00:05:47,384 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 00:06:17,500 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:08:12,504 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:10:07,513 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:12:02,520 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:13:57,523 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:15:52,531 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:17:47,540 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:19:42,544 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:21:35,167 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 00:21:36,669 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 00:21:47,528 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 00:21:47,535 - INFO - Lamp ON (status: mqtt)
+2025-11-28 00:21:47,538 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:21:47,547 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 00:21:47,556 - INFO - Lamp ON (status: mqtt)
+2025-11-28 00:21:47,567 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 00:23:42,544 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:25:37,548 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:27:32,552 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:29:27,555 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:31:22,559 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:33:17,562 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:35:12,570 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:36:36,061 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 00:36:37,563 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 00:36:48,437 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 00:36:48,444 - INFO - Lamp ON (status: mqtt)
+2025-11-28 00:36:48,454 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 00:36:48,463 - INFO - Lamp ON (status: mqtt)
+2025-11-28 00:36:48,473 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 00:37:07,582 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:39:02,585 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:40:57,589 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:42:52,595 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:44:36,137 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 00:44:37,639 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 00:44:48,519 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 00:44:48,525 - INFO - Lamp ON (status: mqtt)
+2025-11-28 00:44:48,528 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:44:48,538 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 00:44:48,548 - INFO - Lamp ON (status: mqtt)
+2025-11-28 00:44:48,556 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 00:46:43,533 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:48:38,540 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:50:33,544 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:52:28,550 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:54:23,558 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:56:18,563 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 00:58:13,569 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:00:08,573 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:02:03,579 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:03:36,331 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 01:03:37,833 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:03:48,672 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:03:48,680 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:03:48,689 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:03:48,701 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:03:48,710 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:03:58,586 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:05:53,590 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:07:48,597 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:09:43,600 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:11:38,607 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:13:33,613 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:15:28,617 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:15:35,211 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 01:15:36,713 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:15:47,561 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:15:47,568 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:15:47,577 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:15:47,587 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:15:47,597 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:17:23,621 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:19:18,629 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:21:13,633 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:23:08,641 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:25:03,647 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:26:58,652 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:28:53,657 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:30:48,663 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:31:35,941 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 01:31:37,444 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:31:48,319 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:31:48,326 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:31:48,337 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:31:48,346 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:31:48,356 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:32:43,669 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:34:38,676 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:36:33,682 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:38:28,689 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:40:23,693 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:42:18,700 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:44:13,705 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:45:35,808 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 01:45:37,311 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:45:48,178 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:45:48,185 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:45:48,195 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:45:48,204 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:45:48,215 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:46:08,709 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:48:03,714 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:49:58,719 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:51:53,728 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:53:48,736 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:55:43,742 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:57:38,746 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 01:58:35,619 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 01:58:37,121 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:58:47,962 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 01:58:47,970 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:58:47,981 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:58:47,990 - INFO - Lamp ON (status: mqtt)
+2025-11-28 01:58:48,000 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 01:59:33,752 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:01:28,762 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:03:23,768 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:05:18,774 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:07:13,780 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:09:08,786 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:11:03,795 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:12:58,803 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:14:53,812 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:15:36,560 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 02:15:38,061 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:15:48,935 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:15:48,942 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:15:48,951 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:15:48,961 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:15:48,971 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:16:48,820 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:17:36,877 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 02:17:38,379 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:17:49,258 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:17:49,265 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:17:49,276 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:17:49,286 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:17:49,296 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:18:43,826 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:20:38,830 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:22:33,834 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:24:28,842 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:24:36,723 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 02:24:38,225 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:24:49,094 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:24:49,101 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:24:49,112 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:24:49,122 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:24:49,133 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:26:23,848 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:28:18,858 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:30:13,866 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:32:08,871 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:34:03,876 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:35:58,882 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:37:53,890 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:39:48,899 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:41:43,905 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:42:36,362 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 02:42:37,865 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:42:48,724 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:42:48,732 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:42:48,743 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:42:48,754 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:42:48,765 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:43:38,911 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:45:33,919 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:47:28,928 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:49:23,931 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:50:36,855 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 02:50:38,357 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:50:49,232 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 02:50:49,239 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:50:49,249 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:50:49,260 - INFO - Lamp ON (status: mqtt)
+2025-11-28 02:50:49,270 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 02:51:18,935 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:53:13,943 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:55:08,947 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:57:03,954 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 02:58:58,961 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:00:53,964 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:01:36,525 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 03:01:38,026 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 03:01:48,898 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 03:01:48,905 - INFO - Lamp ON (status: mqtt)
+2025-11-28 03:01:48,915 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 03:01:48,926 - INFO - Lamp ON (status: mqtt)
+2025-11-28 03:01:48,938 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 03:02:48,968 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:04:43,974 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:06:38,982 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:08:33,988 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:10:28,995 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:10:36,088 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 03:10:37,591 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 03:10:48,464 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 03:10:48,471 - INFO - Lamp ON (status: mqtt)
+2025-11-28 03:10:48,481 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 03:10:48,492 - INFO - Lamp ON (status: mqtt)
+2025-11-28 03:10:48,502 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 03:12:24,000 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:14:19,010 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:16:14,017 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:18:09,020 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:20:04,026 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:21:59,035 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:23:54,039 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:25:37,032 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 03:25:38,534 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 03:25:49,414 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 03:25:49,422 - INFO - Lamp ON (status: mqtt)
+2025-11-28 03:25:49,427 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:25:49,436 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 03:25:49,446 - INFO - Lamp ON (status: mqtt)
+2025-11-28 03:25:49,456 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 03:27:44,432 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:29:39,442 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:31:34,451 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:33:29,460 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:35:24,466 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:37:19,474 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:39:14,480 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:41:09,484 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:43:04,490 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:44:59,497 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:45:36,350 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 03:45:37,851 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 03:45:48,692 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 03:45:48,699 - INFO - Lamp ON (status: mqtt)
+2025-11-28 03:45:48,711 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 03:45:48,721 - INFO - Lamp ON (status: mqtt)
+2025-11-28 03:45:48,731 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 03:46:54,501 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:48:49,507 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:50:44,516 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:52:39,525 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:54:34,532 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:56:29,535 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 03:58:24,542 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:00:19,551 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:02:14,555 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:03:36,501 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 04:03:38,003 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:03:48,881 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:03:48,889 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:03:48,900 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:03:48,912 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:03:48,924 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:04:09,562 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:04:36,548 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 04:04:38,050 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:04:48,911 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:04:48,919 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:04:48,931 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:04:48,940 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:04:48,951 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:06:04,569 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:07:59,575 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:09:37,881 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 04:09:39,384 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:09:50,227 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:09:50,238 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:09:50,251 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:09:50,264 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:09:50,277 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:09:54,587 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:11:49,600 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:13:44,608 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:15:39,617 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:17:34,629 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:19:29,637 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:21:24,640 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:21:37,593 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 04:21:39,095 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:21:49,965 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:21:49,976 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:21:49,990 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:21:50,002 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:21:50,015 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:23:19,648 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:23:37,839 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 04:23:39,342 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:23:50,196 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:23:50,207 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:23:50,219 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:23:50,232 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:23:50,245 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:25:14,658 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:27:09,661 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:29:04,673 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:30:59,684 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:32:54,700 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:34:49,708 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:35:37,475 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 04:35:38,976 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:35:49,852 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:35:49,863 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:35:49,876 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:35:49,889 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:35:49,903 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:36:44,719 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:38:39,727 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:40:34,734 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:42:29,741 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:44:24,746 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:46:19,753 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:48:14,758 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:50:09,764 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:52:04,769 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:53:38,792 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 04:53:40,293 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:53:51,165 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 04:53:51,175 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:53:51,188 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:53:51,201 - INFO - Lamp ON (status: mqtt)
+2025-11-28 04:53:51,212 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 04:53:59,780 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:55:54,792 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:57:49,799 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 04:59:44,806 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:01:39,812 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:02:37,204 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 05:02:38,706 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:02:49,575 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:02:49,586 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:02:49,600 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:02:49,613 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:02:49,626 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:03:34,817 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:05:29,826 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:07:24,833 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:09:19,840 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:11:14,847 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:13:09,853 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:15:04,860 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:16:59,869 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:18:54,875 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:20:49,886 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:22:37,451 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 05:22:38,953 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:22:49,805 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:22:49,815 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:22:49,819 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:22:49,831 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:22:49,843 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:22:49,858 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:24:44,824 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:26:39,835 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:28:34,838 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:30:29,846 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:32:24,856 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:34:19,863 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:36:14,875 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:37:38,151 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 05:37:39,653 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:37:50,513 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:37:50,525 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:37:50,538 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:37:50,550 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:37:50,564 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:38:09,881 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:40:04,893 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:41:59,900 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:43:54,907 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:45:37,640 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 05:45:39,141 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:45:49,996 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:45:50,007 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:45:50,010 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:45:50,023 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:45:50,037 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:45:50,050 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:47:45,016 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:49:40,020 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:51:35,027 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:51:38,031 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 05:51:39,533 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:51:50,373 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 05:51:50,384 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:51:50,398 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:51:50,413 - INFO - Lamp ON (status: mqtt)
+2025-11-28 05:51:50,426 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 05:53:30,042 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:55:25,047 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:57:20,059 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 05:59:15,072 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:01:10,086 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:03:05,098 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:05:00,110 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:05:37,902 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 06:05:39,404 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 06:05:50,271 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 06:05:50,281 - INFO - Lamp ON (status: mqtt)
+2025-11-28 06:05:50,295 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 06:05:50,308 - INFO - Lamp ON (status: mqtt)
+2025-11-28 06:05:50,323 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 06:06:55,122 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:08:50,135 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:09:38,173 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 06:09:39,674 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 06:09:50,524 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 06:09:50,534 - INFO - Lamp ON (status: mqtt)
+2025-11-28 06:09:50,547 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 06:09:50,561 - INFO - Lamp ON (status: mqtt)
+2025-11-28 06:09:50,574 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 06:10:45,140 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:12:40,148 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:14:35,162 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:16:30,172 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:18:25,176 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:20:20,184 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:22:15,196 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:24:10,201 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:26:05,208 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:28:00,217 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:29:38,411 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 06:29:39,914 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 06:29:50,765 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 06:29:50,776 - INFO - Lamp ON (status: mqtt)
+2025-11-28 06:29:50,790 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 06:29:50,805 - INFO - Lamp ON (status: mqtt)
+2025-11-28 06:29:50,818 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 06:29:55,225 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:31:50,237 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:33:45,246 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:35:40,252 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:37:35,258 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:39:30,267 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:41:25,280 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:43:20,290 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:43:38,331 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 06:43:39,832 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 06:43:50,686 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 06:43:50,697 - INFO - Lamp ON (status: mqtt)
+2025-11-28 06:43:50,710 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 06:43:50,724 - INFO - Lamp ON (status: mqtt)
+2025-11-28 06:43:50,739 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 06:45:15,301 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:47:10,312 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:49:05,323 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:51:00,334 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:52:55,348 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:54:50,353 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:56:45,364 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 06:58:40,370 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:00:35,374 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:02:30,381 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:03:38,585 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 07:03:40,086 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:03:50,932 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:03:50,943 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:03:50,955 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:03:50,970 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:03:50,983 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:04:25,392 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:06:20,395 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:08:15,403 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:10:10,414 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:12:05,423 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:14:00,427 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:15:55,439 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:17:50,447 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:19:45,453 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:20:39,316 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 07:20:40,818 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:20:51,700 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:20:51,711 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:20:51,723 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:20:51,738 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:20:51,752 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:21:40,462 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:23:35,473 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:25:30,485 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:27:25,492 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:29:20,497 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:31:15,507 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:31:38,341 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 07:31:39,844 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:31:50,693 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:31:50,703 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:31:50,716 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:31:50,730 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:31:50,743 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:33:10,518 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:35:05,527 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:37:00,537 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:38:55,547 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:40:50,557 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:42:45,564 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:44:40,575 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:46:35,584 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:47:38,261 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 07:47:39,764 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:47:50,617 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:47:50,628 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:47:50,642 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:47:50,656 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:47:50,670 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:48:30,596 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:50:25,603 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:52:20,614 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:54:15,625 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:56:10,636 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 07:56:39,939 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 07:56:41,441 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:56:52,302 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 07:56:52,314 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:56:52,327 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:56:52,341 - INFO - Lamp ON (status: mqtt)
+2025-11-28 07:56:52,354 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 07:58:05,640 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:00:00,648 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:00:39,030 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 08:00:40,532 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 08:00:51,399 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 08:00:51,410 - INFO - Lamp ON (status: mqtt)
+2025-11-28 08:00:51,423 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 08:00:51,438 - INFO - Lamp ON (status: mqtt)
+2025-11-28 08:00:51,454 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 08:01:55,660 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:03:50,664 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:05:45,673 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:06:39,398 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 08:06:40,900 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 08:06:51,769 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 08:06:51,780 - INFO - Lamp ON (status: mqtt)
+2025-11-28 08:06:51,794 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 08:06:51,808 - INFO - Lamp ON (status: mqtt)
+2025-11-28 08:06:51,823 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 08:07:40,679 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:09:35,686 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:11:30,697 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:13:25,705 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:15:20,717 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:17:15,730 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:19:10,737 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:21:05,750 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:23:00,761 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:24:55,771 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:25:39,563 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 08:25:41,066 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 08:25:51,936 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 08:25:51,948 - INFO - Lamp ON (status: mqtt)
+2025-11-28 08:25:51,962 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 08:25:51,975 - INFO - Lamp ON (status: mqtt)
+2025-11-28 08:25:51,990 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 08:26:50,783 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:28:45,788 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:30:40,799 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:32:35,803 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:34:30,815 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:36:25,827 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:38:20,839 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:40:15,851 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:42:10,861 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:44:05,868 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:45:38,803 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 08:45:40,305 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 08:45:51,144 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 08:45:51,156 - INFO - Lamp ON (status: mqtt)
+2025-11-28 08:45:51,170 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 08:45:51,183 - INFO - Lamp ON (status: mqtt)
+2025-11-28 08:45:51,197 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 08:46:00,880 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:47:55,890 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:49:50,894 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:51:45,904 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:53:40,912 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:55:35,915 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:57:30,923 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 08:59:25,937 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:01:20,946 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:02:39,782 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 09:02:41,285 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:02:52,150 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:02:52,160 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:02:52,176 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:02:52,189 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:02:52,203 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:03:15,951 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:05:10,965 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:07:05,971 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:09:00,976 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:10:55,984 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:12:50,998 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:14:46,012 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:16:39,618 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 09:16:41,120 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:16:51,964 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:16:51,975 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:16:51,978 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:16:51,991 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:16:52,006 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:16:52,019 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:18:46,981 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:20:39,878 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 09:20:41,382 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:20:52,221 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:20:52,232 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:20:52,235 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:20:52,249 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:20:52,265 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:20:52,281 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:22:47,246 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:24:42,255 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:25:39,161 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 09:25:40,664 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:25:51,531 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:25:51,542 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:25:51,556 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:25:51,572 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:25:51,586 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:26:37,261 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:28:32,267 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:30:27,275 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:32:22,288 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:34:17,294 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:36:12,301 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:38:07,305 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:40:02,312 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:41:40,017 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 09:41:41,519 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:41:52,387 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:41:52,400 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:41:52,415 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:41:52,429 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:41:52,444 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:41:57,319 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:43:52,328 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:45:47,332 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:47:42,337 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:49:37,340 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:51:32,353 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:53:27,364 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:55:22,376 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:57:17,385 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:59:12,390 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 09:59:39,619 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 09:59:41,120 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:59:51,965 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 09:59:51,977 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:59:51,991 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 09:59:52,007 - INFO - Lamp ON (status: mqtt)
+2025-11-28 09:59:52,022 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 10:01:07,402 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:03:02,410 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:04:57,415 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:06:52,427 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:08:47,440 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:10:42,451 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:12:37,464 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:14:32,470 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:16:27,480 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:17:39,719 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 10:17:41,222 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 10:17:52,080 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 10:17:52,095 - INFO - Lamp ON (status: mqtt)
+2025-11-28 10:17:52,114 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 10:17:52,133 - INFO - Lamp ON (status: mqtt)
+2025-11-28 10:17:52,152 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 10:18:22,493 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:20:17,497 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:22:12,509 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:24:07,513 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:26:02,523 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:27:57,530 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:28:40,353 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 10:28:41,856 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 10:28:52,725 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 10:28:52,736 - INFO - Lamp ON (status: mqtt)
+2025-11-28 10:28:52,750 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 10:28:52,764 - INFO - Lamp ON (status: mqtt)
+2025-11-28 10:28:52,778 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 10:29:52,534 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:31:47,540 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:33:42,552 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:35:37,561 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:37:32,569 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:39:27,574 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:41:22,587 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:43:17,591 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:44:40,327 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 10:44:41,830 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 10:44:52,683 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 10:44:52,694 - INFO - Lamp ON (status: mqtt)
+2025-11-28 10:44:52,710 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 10:44:52,725 - INFO - Lamp ON (status: mqtt)
+2025-11-28 10:44:52,738 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 10:45:12,595 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:47:07,608 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:49:02,621 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:50:57,630 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:52:52,636 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:54:47,647 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:56:42,659 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:58:37,674 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 10:59:40,239 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 10:59:41,742 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 10:59:52,604 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 10:59:52,616 - INFO - Lamp ON (status: mqtt)
+2025-11-28 10:59:52,632 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 10:59:52,646 - INFO - Lamp ON (status: mqtt)
+2025-11-28 10:59:52,661 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:00:32,687 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:02:27,700 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:04:22,712 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:06:17,719 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:06:40,650 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 11:06:42,153 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 11:06:53,004 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 11:06:53,016 - INFO - Lamp ON (status: mqtt)
+2025-11-28 11:06:53,031 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:06:53,046 - INFO - Lamp ON (status: mqtt)
+2025-11-28 11:06:53,060 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:08:12,727 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:10:07,736 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:12:02,745 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:12:40,012 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 11:12:41,513 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 11:12:52,379 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 11:12:52,390 - INFO - Lamp ON (status: mqtt)
+2025-11-28 11:12:52,406 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:12:52,423 - INFO - Lamp ON (status: mqtt)
+2025-11-28 11:12:52,437 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:13:57,752 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:15:52,761 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:17:47,774 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:19:42,780 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:21:37,786 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:23:32,798 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:25:27,809 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:27:22,815 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:29:17,826 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:31:12,839 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:31:40,141 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 11:31:41,643 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 11:31:52,520 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 11:31:52,532 - INFO - Lamp ON (status: mqtt)
+2025-11-28 11:31:52,547 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:31:52,564 - INFO - Lamp ON (status: mqtt)
+2025-11-28 11:31:52,578 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:33:07,844 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:35:02,856 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:36:57,868 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:38:52,880 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:40:47,888 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:42:42,898 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:44:37,910 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:44:40,216 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 11:44:41,718 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 11:44:52,583 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 11:44:52,594 - INFO - Lamp ON (status: mqtt)
+2025-11-28 11:44:52,608 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:44:52,622 - INFO - Lamp ON (status: mqtt)
+2025-11-28 11:44:52,636 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 11:46:32,925 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:48:27,937 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:50:22,947 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:52:17,954 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:54:12,961 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:56:07,974 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:58:02,988 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 11:59:57,996 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:01:53,009 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:03:40,334 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 12:03:41,836 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:03:52,685 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:03:52,696 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:03:52,700 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:03:52,716 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:03:52,731 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:03:52,746 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:05:47,704 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:07:42,708 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:09:37,712 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:11:32,723 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:13:27,728 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:15:22,736 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:15:41,060 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 12:15:42,563 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:15:53,411 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:15:53,423 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:15:53,437 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:15:53,453 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:15:53,467 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:17:17,747 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:19:12,751 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:21:07,756 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:23:02,769 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:24:57,780 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:26:52,783 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:28:47,789 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:29:40,921 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 12:29:42,423 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:29:53,286 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:29:53,299 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:29:53,313 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:29:53,326 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:29:53,341 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:30:42,793 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:32:37,798 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:34:32,812 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:36:27,827 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:36:41,370 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 12:36:42,872 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:36:53,740 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:36:53,752 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:36:53,767 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:36:53,786 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:36:53,800 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:38:22,836 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:40:17,846 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:42:12,856 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:44:07,861 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:46:02,868 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:47:41,038 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 12:47:42,540 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:47:53,419 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:47:53,431 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:47:53,447 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:47:53,462 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:47:53,476 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:47:57,883 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:49:52,893 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:51:47,898 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:53:42,910 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:54:41,461 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 12:54:42,963 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:54:53,817 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 12:54:53,830 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:54:53,846 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:54:53,861 - INFO - Lamp ON (status: mqtt)
+2025-11-28 12:54:53,876 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 12:55:37,916 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:57:32,921 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 12:59:27,933 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:01:22,940 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:03:17,945 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:05:12,956 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:07:07,962 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:09:02,968 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:10:57,978 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:11:41,510 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 13:11:43,012 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 13:11:53,875 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 13:11:53,887 - INFO - Lamp ON (status: mqtt)
+2025-11-28 13:11:53,901 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 13:11:53,919 - INFO - Lamp ON (status: mqtt)
+2025-11-28 13:11:53,935 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 13:12:52,992 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:14:48,006 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:16:43,010 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:18:38,019 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:20:33,033 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:22:28,047 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:24:23,052 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:26:18,056 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:28:13,062 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:30:08,075 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:31:42,338 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 13:31:43,841 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 13:31:54,697 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 13:31:54,710 - INFO - Lamp ON (status: mqtt)
+2025-11-28 13:31:54,725 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 13:31:54,740 - INFO - Lamp ON (status: mqtt)
+2025-11-28 13:31:54,755 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 13:32:03,089 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:33:58,098 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:35:53,104 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:37:48,112 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:39:43,124 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:41:38,134 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:43:33,145 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:45:28,160 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:47:23,167 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:49:18,176 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:50:41,072 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 13:50:42,573 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 13:50:53,414 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 13:50:53,427 - INFO - Lamp ON (status: mqtt)
+2025-11-28 13:50:53,442 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 13:50:53,458 - INFO - Lamp ON (status: mqtt)
+2025-11-28 13:50:53,473 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 13:51:13,186 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:51:41,510 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 13:51:43,013 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 13:51:53,876 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 13:51:53,889 - INFO - Lamp ON (status: mqtt)
+2025-11-28 13:51:53,906 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 13:51:53,922 - INFO - Lamp ON (status: mqtt)
+2025-11-28 13:51:53,936 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 13:53:08,197 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:55:03,211 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:56:58,222 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 13:58:53,236 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:00:48,249 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:02:43,262 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:03:41,840 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 14:03:43,343 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:03:54,212 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:03:54,225 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:03:54,241 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:03:54,257 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:03:54,273 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:04:38,277 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:06:33,283 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:08:28,287 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:10:23,301 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:12:18,306 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:14:13,313 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:16:08,328 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:18:03,340 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:19:58,354 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:21:53,359 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:23:42,029 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 14:23:43,531 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:23:54,385 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:23:54,398 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:23:54,401 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:23:54,417 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:23:54,432 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:23:54,448 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:25:49,408 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:27:44,416 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:29:39,432 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:31:34,447 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:33:29,456 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:35:24,471 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:37:19,478 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:37:41,899 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 14:37:43,401 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:37:54,259 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:37:54,271 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:37:54,286 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:37:54,301 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:37:54,316 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:39:14,489 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:41:09,496 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:43:04,505 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:44:59,509 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:45:42,387 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 14:45:43,889 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:45:54,743 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:45:54,756 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:45:54,771 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:45:54,786 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:45:54,802 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:46:54,515 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:48:49,528 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:50:44,535 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:51:41,775 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 14:51:43,277 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:51:54,120 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 14:51:54,132 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:51:54,147 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:51:54,163 - INFO - Lamp ON (status: mqtt)
+2025-11-28 14:51:54,178 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 14:52:39,540 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:54:34,554 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:56:29,562 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 14:58:24,565 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:00:19,568 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:02:14,575 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:04:09,580 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:06:04,585 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:06:41,672 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 15:06:43,174 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:06:54,022 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:06:54,034 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:06:54,050 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:06:54,065 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:06:54,082 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:07:59,591 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:09:54,596 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:11:49,609 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:13:44,622 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:15:39,627 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:17:34,637 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:18:42,784 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 15:18:44,287 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:18:55,162 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:18:55,174 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:18:55,189 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:18:55,205 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:18:55,222 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:19:29,649 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:21:24,659 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:23:19,667 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:24:42,772 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 15:24:44,275 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:24:55,147 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:24:55,159 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:24:55,178 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:24:55,193 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:24:55,209 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:25:14,672 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:27:09,685 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:27:41,946 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 15:27:43,448 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:27:54,314 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:27:54,326 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:27:54,343 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:27:54,359 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:27:54,379 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:29:04,698 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:30:59,704 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:32:54,713 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:34:49,718 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:36:44,726 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:38:39,731 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:40:34,746 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:42:29,761 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:42:42,234 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 15:42:43,735 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:42:54,592 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:42:54,606 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:42:54,623 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:42:54,639 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:42:54,654 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:44:24,775 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:46:19,780 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:48:14,789 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:50:09,801 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:51:42,760 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 15:51:44,262 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:51:55,141 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 15:51:55,155 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:51:55,172 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:51:55,187 - INFO - Lamp ON (status: mqtt)
+2025-11-28 15:51:55,202 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 15:52:04,810 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:53:59,819 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:55:54,826 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:57:49,838 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 15:59:44,852 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:00:42,343 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 16:00:43,845 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 16:00:54,712 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 16:00:54,726 - INFO - Lamp ON (status: mqtt)
+2025-11-28 16:00:54,743 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 16:00:54,760 - INFO - Lamp ON (status: mqtt)
+2025-11-28 16:00:54,776 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 16:01:39,856 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:03:34,866 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:03:42,532 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 16:03:44,035 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 16:03:54,897 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 16:03:54,909 - INFO - Lamp ON (status: mqtt)
+2025-11-28 16:03:54,926 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 16:03:54,942 - INFO - Lamp ON (status: mqtt)
+2025-11-28 16:03:54,958 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 16:05:29,876 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:07:24,884 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:09:19,897 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:11:14,910 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:13:09,919 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:15:04,930 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:16:59,940 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:18:54,950 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:20:49,956 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:22:44,969 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:23:42,812 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 16:23:44,313 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 16:23:55,182 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 16:23:55,196 - INFO - Lamp ON (status: mqtt)
+2025-11-28 16:23:55,212 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 16:23:55,228 - INFO - Lamp ON (status: mqtt)
+2025-11-28 16:23:55,244 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 16:24:39,978 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:26:34,990 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:27:43,615 - INFO - Alarm Play: alarm3 (status: mqtt)
+2025-11-28 16:27:45,117 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 16:27:55,961 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-11-28 16:27:55,974 - INFO - Lamp ON (status: mqtt)
+2025-11-28 16:27:55,992 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 16:27:56,008 - INFO - Lamp ON (status: mqtt)
+2025-11-28 16:27:56,025 - INFO - Lamp OFF (status: mqtt)
+2025-11-28 16:28:30,002 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:30:25,018 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:32:20,033 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:34:15,042 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:36:10,056 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:38:05,066 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:40:00,082 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:41:55,099 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:43:50,105 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:45:45,117 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:47:40,127 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:49:35,139 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:51:30,142 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:53:25,152 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:55:20,159 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:57:15,171 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 16:59:10,180 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:01:05,185 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:03:00,194 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:04:55,209 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:06:50,222 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:08:45,235 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:10:40,249 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:12:35,256 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:14:30,263 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:16:25,281 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:18:20,291 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:20:15,304 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:22:10,317 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:24:05,327 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:26:00,342 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:27:55,353 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:29:50,366 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:31:45,371 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:33:40,385 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:35:35,401 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:37:30,414 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:39:25,421 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:41:20,436 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:43:15,441 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:45:10,445 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:47:05,452 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:49:00,466 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:50:55,474 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:52:50,479 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:54:45,483 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:56:40,499 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 17:58:35,509 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:00:30,520 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:02:25,528 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:04:20,541 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:06:15,548 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:08:10,559 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:10:05,567 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:12:00,582 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:13:55,588 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:15:50,600 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:17:45,611 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-28 18:19:40,623 - INFO - 1 data di 'queue' berhasil diupdate.

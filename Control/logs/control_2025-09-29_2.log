@@ -1,0 +1,74 @@
+2025-09-29 14:24:31,622 - INFO - Voice Alarm Device Control is ON
+2025-09-29 14:26:24,381 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:27:00,603 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-29 14:27:00,603 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:27:12,992 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:27:25,792 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-29 14:27:25,793 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:27:38,166 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:27:41,591 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-29 14:27:41,591 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:27:53,990 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:28:19,386 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:28:21,554 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-29 14:28:21,555 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:28:33,925 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:28:51,371 - INFO - Alarm Play: alarm1 (status: local)
+2025-09-29 14:28:51,371 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-29 14:29:03,956 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-29 14:30:14,402 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:32:09,406 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:34:04,410 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:34:05,130 - INFO - Voice Alarm Device Control is ON
+2025-09-29 15:02:02,873 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:03:57,891 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:05:52,908 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:07:47,920 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:09:42,959 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:11:37,985 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:13:33,003 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:15:28,012 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:17:23,019 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:19:18,035 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:21:13,043 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:23:03,019 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:23:05,002 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:23:07,007 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:23:08,058 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:23:09,212 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:23:11,027 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:23:13,006 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:23:15,015 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:23:17,015 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:23:19,010 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:23:21,017 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:25:03,066 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:26:58,085 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:27:55,357 - INFO - Lamp ON (status: local)
+2025-09-29 15:27:56,454 - INFO - Lamp OFF (status: local)
+2025-09-29 15:27:57,568 - INFO - Lamp ON (status: local)
+2025-09-29 15:27:58,694 - INFO - Lamp OFF (status: local)
+2025-09-29 15:27:59,772 - INFO - Lamp ON (status: local)
+2025-09-29 15:28:00,860 - INFO - Lamp OFF (status: local)
+2025-09-29 15:28:01,938 - INFO - Lamp ON (status: local)
+2025-09-29 15:28:03,036 - INFO - Lamp OFF (status: local)
+2025-09-29 15:28:04,115 - INFO - Lamp ON (status: local)
+2025-09-29 15:28:05,219 - INFO - Lamp OFF (status: local)
+2025-09-29 15:28:53,098 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:30:48,118 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:32:43,126 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:34:38,134 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:36:33,145 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:38:28,162 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:38:41,938 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:38:43,939 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:38:45,949 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:38:47,931 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:38:49,948 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:38:51,950 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:38:53,938 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:38:55,946 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:38:57,947 - INFO - Lamp ON (status: mqtt)
+2025-09-29 15:38:59,956 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 15:40:23,168 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:42:18,177 - INFO - 1 data di 'queue' berhasil diupdate.

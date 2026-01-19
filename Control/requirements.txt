@@ -1,0 +1,9 @@
+pigpio
+pygame
+pytz
+psutil
+lgpio
+gTTS
+requests
+pymongo
+motor

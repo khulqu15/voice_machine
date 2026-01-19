@@ -1,0 +1,21 @@
+2025-11-26 14:00:22,297 - INFO - Done : test2
+2025-11-26 14:00:22,313 - INFO - TTS Play: test3 (status: local)
+2025-11-26 14:00:22,320 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-26 14:00:22,322 - INFO - Play : test3
+2025-11-26 14:00:27,325 - INFO - Done : test3
+2025-11-26 14:00:27,341 - INFO - TTS Play: test4 (status: local)
+2025-11-26 14:00:27,343 - INFO - Play : test4
+2025-11-26 14:00:32,444 - INFO - Done : test4
+2025-11-26 14:00:32,459 - INFO - TTS Play: test5 (status: local)
+2025-11-26 14:00:32,461 - INFO - Play : test5
+2025-11-26 14:00:37,437 - INFO - Done : test5
+2025-11-26 14:00:47,193 - INFO - Lamp ON (status: local)
+2025-11-26 14:00:48,298 - INFO - Lamp OFF (status: local)
+2025-11-26 14:00:49,376 - INFO - Lamp ON (status: local)
+2025-11-26 14:00:50,439 - INFO - Lamp OFF (status: local)
+2025-11-26 14:00:51,555 - INFO - Lamp ON (status: local)
+2025-11-26 14:00:53,947 - INFO - Lamp OFF (status: local)
+2025-11-26 14:00:54,985 - INFO - Lamp ON (status: local)
+2025-11-26 14:00:56,053 - INFO - Lamp OFF (status: local)
+2025-11-26 14:00:57,125 - INFO - Lamp ON (status: local)
+2025-11-26 14:01:01,266 - INFO - Lamp OFF (status: local)

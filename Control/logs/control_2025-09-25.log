@@ -1,0 +1,27 @@
+2025-09-29 13:49:18,219 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 13:51:13,235 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 13:53:08,243 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 13:55:03,252 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 13:56:58,270 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 13:58:53,284 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:00:48,293 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:02:43,310 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:04:38,320 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:06:33,331 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:08:28,338 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:10:23,345 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:12:18,349 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:14:13,353 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:16:08,368 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:18:03,382 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:19:58,400 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:21:35,626 - INFO - Lamp OFF (status: local)
+2025-09-29 14:21:51,903 - INFO - Lamp ON (status: local)
+2025-09-29 14:21:53,415 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 14:22:31,865 - INFO - TTS Play: ini adalah test tts (status: local)
+2025-09-29 14:22:31,865 - INFO - Play : ini adalah test tts
+2025-09-29 14:22:38,004 - INFO - Done : ini adalah test tts
+2025-09-29 14:23:11,783 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-29 14:23:11,783 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:23:24,125 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 14:23:48,432 - INFO - 1 data di 'queue' berhasil diupdate.

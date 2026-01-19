@@ -1,0 +1,185 @@
+2025-09-17 12:05:47,867 - INFO - Voice Alarm Device Control is ON
+2025-09-17 15:28:58,206 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:30:53,218 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:32:48,224 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:33:08,872 - INFO - Lamp ON (status: mqtt)
+2025-09-17 15:33:10,865 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 15:33:12,859 - INFO - Lamp ON (status: mqtt)
+2025-09-17 15:33:14,868 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 15:33:16,876 - INFO - Lamp ON (status: mqtt)
+2025-09-17 15:33:18,981 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 15:33:20,876 - INFO - Lamp ON (status: mqtt)
+2025-09-17 15:33:22,893 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 15:33:24,887 - INFO - Lamp ON (status: mqtt)
+2025-09-17 15:33:26,873 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 15:34:43,236 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:36:38,244 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:38:33,260 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:40:28,266 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:42:23,269 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:44:18,276 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:46:13,279 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:47:17,747 - INFO - Lamp ON (status: local)
+2025-09-17 15:47:18,977 - INFO - Lamp OFF (status: local)
+2025-09-17 15:47:20,137 - INFO - Lamp ON (status: local)
+2025-09-17 15:47:21,246 - INFO - Lamp OFF (status: local)
+2025-09-17 15:47:22,312 - INFO - Lamp ON (status: local)
+2025-09-17 15:47:23,393 - INFO - Lamp OFF (status: local)
+2025-09-17 15:47:24,498 - INFO - Lamp ON (status: local)
+2025-09-17 15:47:25,592 - INFO - Lamp OFF (status: local)
+2025-09-17 15:47:26,676 - INFO - Lamp ON (status: local)
+2025-09-17 15:47:27,762 - INFO - Lamp OFF (status: local)
+2025-09-17 15:48:08,304 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:49:08,031 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:09,115 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:10,224 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:11,309 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:12,473 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:13,551 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:14,645 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:15,761 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:16,830 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:17,914 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:19,024 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:20,299 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:21,362 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:22,506 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:23,603 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:24,719 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:25,807 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:26,947 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:28,212 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:29,330 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:30,454 - INFO - Alarm Play: alarm1 (status: local)
+2025-09-17 15:49:30,456 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-17 15:49:43,048 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-17 15:49:49,773 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:50,836 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:51,915 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:53,073 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:54,223 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:55,354 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:56,429 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:57,567 - INFO - Lamp OFF (status: local)
+2025-09-17 15:49:58,724 - INFO - Lamp ON (status: local)
+2025-09-17 15:49:59,847 - INFO - Lamp OFF (status: local)
+2025-09-17 15:50:01,051 - INFO - Alarm Play: alarm1 (status: local)
+2025-09-17 15:50:01,052 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-17 15:50:13,642 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-17 15:50:13,658 - INFO - Alarm Play: alarm2 (status: local)
+2025-09-17 15:50:13,661 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:50:13,664 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-17 15:50:26,270 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-17 15:50:26,286 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-17 15:50:26,289 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-17 15:50:38,646 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-17 15:50:38,664 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-17 15:50:38,667 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-17 15:50:51,020 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-17 15:50:51,035 - INFO - Alarm Play: alarm1 (status: local)
+2025-09-17 15:50:51,038 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-17 15:51:03,607 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-17 15:52:08,676 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:52:11,857 - INFO - Lamp ON (status: local)
+2025-09-17 15:52:12,956 - INFO - Lamp OFF (status: local)
+2025-09-17 15:52:14,048 - INFO - Lamp ON (status: local)
+2025-09-17 15:52:15,144 - INFO - Lamp OFF (status: local)
+2025-09-17 15:52:16,227 - INFO - Lamp ON (status: local)
+2025-09-17 15:52:17,325 - INFO - Lamp OFF (status: local)
+2025-09-17 15:52:18,419 - INFO - Lamp ON (status: local)
+2025-09-17 15:52:19,505 - INFO - Lamp OFF (status: local)
+2025-09-17 15:52:20,609 - INFO - Lamp ON (status: local)
+2025-09-17 15:52:21,755 - INFO - Lamp OFF (status: local)
+2025-09-17 15:53:30,731 - INFO - Lamp ON (status: local)
+2025-09-17 15:53:31,842 - INFO - Lamp OFF (status: local)
+2025-09-17 15:53:32,983 - INFO - Lamp ON (status: local)
+2025-09-17 15:53:34,068 - INFO - Lamp OFF (status: local)
+2025-09-17 15:53:35,164 - INFO - Lamp ON (status: local)
+2025-09-17 15:53:36,277 - INFO - Lamp OFF (status: local)
+2025-09-17 15:53:37,367 - INFO - Lamp ON (status: local)
+2025-09-17 15:53:38,444 - INFO - Lamp OFF (status: local)
+2025-09-17 15:53:39,562 - INFO - Lamp ON (status: local)
+2025-09-17 15:53:40,661 - INFO - Lamp OFF (status: local)
+2025-09-17 15:54:03,692 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:55:58,710 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:57:16,921 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-17 15:57:16,921 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-17 15:57:24,487 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-17 15:57:53,717 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 15:59:48,723 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:01:43,731 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:03:38,751 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:05:33,766 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:07:28,782 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:09:23,789 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:11:18,807 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:13:13,812 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:15:08,819 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:17:03,837 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:18:58,841 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:20:53,860 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:22:48,867 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:24:43,885 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:26:38,888 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:28:33,912 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:30:28,926 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:32:23,932 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:34:18,949 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:36:13,957 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:38:08,964 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:40:03,967 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:41:58,986 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:43:53,994 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:45:49,003 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:47:44,007 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:49:39,011 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:51:34,026 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:53:29,030 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:55:24,044 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:57:19,053 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 16:57:30,247 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 16:58:36,634 - INFO - Lamp ON (status: mqtt)
+2025-09-17 16:58:38,642 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 16:58:40,628 - INFO - Lamp ON (status: mqtt)
+2025-09-17 16:58:42,649 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 16:58:44,656 - INFO - Lamp ON (status: mqtt)
+2025-09-17 16:58:47,102 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 16:58:48,650 - INFO - Lamp ON (status: mqtt)
+2025-09-17 16:58:50,645 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 16:58:53,068 - INFO - Lamp ON (status: mqtt)
+2025-09-17 16:58:54,655 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 16:59:14,072 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:01:09,085 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:01:39,633 - INFO - Lamp ON (status: mqtt)
+2025-09-17 17:01:41,148 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 17:01:43,168 - INFO - Lamp ON (status: mqtt)
+2025-09-17 17:01:45,168 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 17:01:47,170 - INFO - Lamp ON (status: mqtt)
+2025-09-17 17:01:49,153 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 17:01:52,156 - INFO - Lamp ON (status: mqtt)
+2025-09-17 17:01:54,186 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 17:01:56,177 - INFO - Lamp ON (status: mqtt)
+2025-09-17 17:01:58,184 - INFO - Lamp OFF (status: mqtt)
+2025-09-17 17:03:04,095 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:04:59,098 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:06:54,106 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:08:49,120 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:10:44,125 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:12:39,132 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:14:34,143 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:16:29,156 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:18:24,159 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:20:19,175 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:22:14,197 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:24:09,202 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:26:04,223 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:27:59,233 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:29:54,251 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:31:49,264 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:33:44,280 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:35:39,284 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:37:34,295 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:39:29,304 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:41:24,314 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-17 17:41:58,435 - ERROR - [ERROR] Gagal membaca collections one: interrupted at shutdown, full error: {'ok': 0.0, 'errmsg': 'interrupted at shutdown', 'code': 11600, 'codeName': 'InterruptedAtShutdown'}
+2025-09-17 17:42:29,511 - ERROR - [ERROR] Gagal membaca collections: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68ca41a96e5f04f7dfd25987, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>

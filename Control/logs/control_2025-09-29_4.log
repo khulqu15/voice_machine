@@ -1,0 +1,31 @@
+2025-09-29 16:19:23,363 - INFO - Voice Alarm Device Control is ON
+2025-09-29 16:19:53,419 - INFO - Lamp ON (status: mqtt)
+2025-09-29 16:19:55,417 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 16:19:59,270 - INFO - Lamp ON (status: mqtt)
+2025-09-29 16:20:01,399 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 16:20:03,411 - INFO - Lamp ON (status: mqtt)
+2025-09-29 16:20:05,415 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 16:20:07,416 - INFO - Lamp ON (status: mqtt)
+2025-09-29 16:20:09,430 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 16:20:11,429 - INFO - Lamp ON (status: mqtt)
+2025-09-29 16:20:13,445 - INFO - Lamp OFF (status: mqtt)
+2025-09-29 16:21:16,130 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:23:11,149 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:25:06,164 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:26:48,895 - INFO - Lamp ON (status: local)
+2025-09-29 16:26:49,989 - INFO - Lamp OFF (status: local)
+2025-09-29 16:26:51,056 - INFO - Lamp ON (status: local)
+2025-09-29 16:26:52,136 - INFO - Lamp OFF (status: local)
+2025-09-29 16:26:53,213 - INFO - Lamp ON (status: local)
+2025-09-29 16:26:54,283 - INFO - Lamp OFF (status: local)
+2025-09-29 16:26:55,370 - INFO - Lamp ON (status: local)
+2025-09-29 16:26:56,423 - INFO - Lamp OFF (status: local)
+2025-09-29 16:26:57,478 - INFO - Lamp ON (status: local)
+2025-09-29 16:26:58,547 - INFO - Lamp OFF (status: local)
+2025-09-29 16:27:01,172 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:28:22,695 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-29 16:28:22,695 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-29 16:28:30,264 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-29 16:28:56,189 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:30:51,210 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:32:46,224 - INFO - 1 data di 'queue' berhasil diupdate.

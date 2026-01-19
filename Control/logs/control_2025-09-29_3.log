@@ -1,0 +1,53 @@
+2025-09-29 15:44:06,838 - INFO - Voice Alarm Device Control is ON
+2025-09-29 15:43:12,801 - INFO - Voice Alarm Device Control is ON
+2025-09-29 15:51:49,188 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:53:15,594 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-29 15:53:15,596 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-29 15:53:23,182 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-29 15:53:44,210 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:55:39,214 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:57:34,224 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:58:27,429 - INFO - Lamp ON (status: local)
+2025-09-29 15:58:29,589 - INFO - Lamp OFF (status: local)
+2025-09-29 15:58:31,940 - INFO - Alarm Play: alarm1 (status: local)
+2025-09-29 15:58:31,940 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-29 15:58:44,503 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm1.mp3
+2025-09-29 15:58:47,623 - INFO - Alarm Play: alarm2 (status: local)
+2025-09-29 15:58:47,623 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-29 15:59:00,245 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-09-29 15:59:03,379 - INFO - Alarm Play: alarm3 (status: local)
+2025-09-29 15:59:03,379 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 15:59:15,730 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm3.mp3
+2025-09-29 15:59:18,210 - INFO - Alarm Play: alarm4 (status: local)
+2025-09-29 15:59:18,210 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-29 15:59:30,582 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm4.mp3
+2025-09-29 15:59:30,599 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 15:59:33,172 - INFO - TTS Play: hati-hati (status: local)
+2025-09-29 15:59:33,173 - INFO - Play : hati-hati
+2025-09-29 15:59:38,302 - INFO - Done : hati-hati
+2025-09-29 15:59:40,500 - INFO - TTS Play: silahkan jalan (status: local)
+2025-09-29 15:59:40,501 - INFO - Play : silahkan jalan
+2025-09-29 15:59:45,941 - INFO - Done : silahkan jalan
+2025-09-29 16:00:29,011 - INFO - Lamp ON (status: local)
+2025-09-29 16:00:30,142 - INFO - Lamp OFF (status: local)
+2025-09-29 16:00:31,211 - INFO - Lamp ON (status: local)
+2025-09-29 16:00:32,260 - INFO - Lamp OFF (status: local)
+2025-09-29 16:00:33,368 - INFO - Lamp ON (status: local)
+2025-09-29 16:00:34,476 - INFO - Lamp OFF (status: local)
+2025-09-29 16:00:35,560 - INFO - Lamp ON (status: local)
+2025-09-29 16:00:36,666 - INFO - Lamp OFF (status: local)
+2025-09-29 16:00:37,739 - INFO - Lamp ON (status: local)
+2025-09-29 16:00:38,836 - INFO - Lamp OFF (status: local)
+2025-09-29 16:01:25,605 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:03:20,622 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:05:15,632 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:07:10,641 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:09:05,655 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:11:00,667 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:12:55,677 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:14:50,689 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:14:54,640 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-09-29 16:14:54,640 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-09-29 16:15:02,227 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-09-29 16:16:45,697 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-09-29 16:18:40,714 - INFO - 1 data di 'queue' berhasil diupdate.

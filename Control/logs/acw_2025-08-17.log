@@ -1,0 +1,241 @@
+2025-08-18 00:00:03,490 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:00:03,510 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3 (status: mqtt)
+2025-08-18 00:00:03,510 - INFO - Kirim antrian alarm4/done (status: mqtt)
+2025-08-18 00:00:03,513 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:00:14,370 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:00:14,389 - INFO - Kirim antrian alarm3/play (status: mqtt)
+2025-08-18 00:00:14,411 - INFO - Kirim antrian alarm3/done (status: mqtt)
+2025-08-18 00:00:14,433 - INFO - Kirim antrian alarm3/play (status: mqtt)
+2025-08-18 00:00:14,458 - INFO - Kirim antrian alarm3/done (status: mqtt)
+2025-08-18 00:00:14,480 - INFO - Kirim antrian alarm3/play (status: mqtt)
+2025-08-18 00:00:14,503 - INFO - Kirim antrian alarm3/done (status: mqtt)
+2025-08-18 00:00:16,804 - INFO - TTS Play: Test 0 (status: mqtt)
+2025-08-18 00:00:16,804 - INFO - Play : Test 0
+2025-08-18 00:00:20,260 - INFO - Done : Test 0
+2025-08-18 00:00:20,279 - INFO - TTS Play: Test 1 (status: mqtt)
+2025-08-18 00:00:20,279 - INFO - Kirim antrian tts/Test 0/play (status: mqtt)
+2025-08-18 00:00:20,281 - INFO - Play : Test 1
+2025-08-18 00:00:23,890 - INFO - Done : Test 1
+2025-08-18 00:00:23,916 - INFO - TTS Play: Test 2 (status: mqtt)
+2025-08-18 00:00:23,916 - INFO - Kirim antrian tts/Test 0/done (status: mqtt)
+2025-08-18 00:00:23,918 - INFO - Play : Test 2
+2025-08-18 00:00:27,390 - INFO - Done : Test 2
+2025-08-18 00:00:27,408 - INFO - TTS Play: Test 3 (status: mqtt)
+2025-08-18 00:00:27,409 - INFO - Kirim antrian tts/Test 1/play (status: mqtt)
+2025-08-18 00:00:27,411 - INFO - Play : Test 3
+2025-08-18 00:00:30,889 - INFO - Done : Test 3
+2025-08-18 00:00:30,925 - INFO - TTS Play: Test 4 (status: mqtt)
+2025-08-18 00:00:30,926 - INFO - Kirim antrian tts/Test 1/done (status: mqtt)
+2025-08-18 00:00:30,934 - INFO - Play : Test 4
+2025-08-18 00:00:34,559 - INFO - Done : Test 4
+2025-08-18 00:00:34,578 - INFO - Kirim antrian tts/Test 2/play (status: mqtt)
+2025-08-18 00:00:34,599 - INFO - Kirim antrian tts/Test 2/done (status: mqtt)
+2025-08-18 00:00:34,620 - INFO - Kirim antrian tts/Test 3/play (status: mqtt)
+2025-08-18 00:00:34,643 - INFO - Kirim antrian tts/Test 3/done (status: mqtt)
+2025-08-18 00:00:34,665 - INFO - Kirim antrian tts/Test 4/play (status: mqtt)
+2025-08-18 00:00:34,686 - INFO - Kirim antrian tts/Test 4/done (status: mqtt)
+2025-08-18 00:00:37,822 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3 (status: mqtt)
+2025-08-18 00:00:37,822 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:00:48,930 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:00:48,951 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:00:48,951 - INFO - Kirim antrian alarm2/play (status: mqtt)
+2025-08-18 00:00:48,972 - INFO - Kirim antrian alarm2/done (status: mqtt)
+2025-08-18 00:00:51,828 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:00:51,833 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:00:53,811 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:00:53,812 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:00:55,826 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:00:55,827 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:00:57,823 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:00:57,824 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:00:59,827 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:00:59,827 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:02:43,954 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:04:38,962 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:06:33,966 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:06:35,057 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:06:35,057 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:06:37,046 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:06:37,047 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:06:39,027 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:06:39,027 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:06:41,070 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:06:41,072 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:06:43,039 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:06:43,040 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:06:45,034 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:06:45,035 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:06:47,018 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:06:47,019 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:06:49,028 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:06:49,028 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:06:51,049 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:06:51,051 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:06:53,035 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:06:53,036 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:08:28,982 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:10:23,990 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:12:19,000 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:13:25,574 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3 (status: mqtt)
+2025-08-18 00:13:25,581 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:13:36,712 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:13:36,812 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3 (status: mqtt)
+2025-08-18 00:13:36,812 - INFO - Kirim antrian alarm2/play (status: mqtt)
+2025-08-18 00:13:36,817 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:13:47,886 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:13:48,293 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:13:48,293 - INFO - Kirim antrian alarm2/done (status: mqtt)
+2025-08-18 00:13:49,136 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:14:00,576 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:14:00,825 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3 (status: mqtt)
+2025-08-18 00:14:00,825 - INFO - Kirim antrian alarm3/play (status: mqtt)
+2025-08-18 00:14:01,177 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:14:12,204 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:14:12,369 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:14:12,369 - INFO - Kirim antrian alarm3/done (status: mqtt)
+2025-08-18 00:14:12,841 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:14:25,327 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:14:27,414 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:14:27,415 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:14:28,235 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:14:28,283 - INFO - Kirim antrian alarm3/play (status: mqtt)
+2025-08-18 00:14:28,308 - INFO - Kirim antrian alarm3/done (status: mqtt)
+2025-08-18 00:14:28,334 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:14:28,372 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:14:33,209 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:14:33,210 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:14:45,498 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:14:47,772 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:14:47,772 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:14:49,266 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:03,310 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:05,585 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:15:05,585 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:15:05,649 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:17,069 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:17,109 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:15:17,109 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:15:17,118 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:28,208 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:28,229 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:15:28,229 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:15:28,234 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:39,298 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:39,320 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:15:39,321 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:15:39,323 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:50,389 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:15:50,409 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:15:50,410 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:15:50,412 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:01,488 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:01,515 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:16:01,515 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:16:01,518 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:12,579 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:12,611 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:16:12,611 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:16:12,614 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:23,667 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:23,693 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:16:23,698 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:16:23,698 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:16:23,700 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:34,767 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:34,788 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:16:34,789 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:16:34,791 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:45,857 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:45,884 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:16:45,885 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:16:45,889 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:56,947 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:16:56,967 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3 (status: mqtt)
+2025-08-18 00:16:56,967 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:16:56,970 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:17:08,087 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:17:08,109 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:17:08,133 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:17:08,155 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:17:08,179 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:17:08,203 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:17:08,228 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:17:08,252 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:17:08,275 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:17:08,299 - INFO - Kirim antrian alarm2/play (status: mqtt)
+2025-08-18 00:17:08,322 - INFO - Kirim antrian alarm2/done (status: mqtt)
+2025-08-18 00:17:09,814 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:17:09,815 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:17:11,785 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:17:11,786 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:17:14,638 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3 (status: mqtt)
+2025-08-18 00:17:14,638 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:17:25,496 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm3.mp3
+2025-08-18 00:17:25,518 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm4.mp3 (status: mqtt)
+2025-08-18 00:17:25,518 - INFO - Kirim antrian alarm3/play (status: mqtt)
+2025-08-18 00:17:25,521 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm4.mp3
+2025-08-18 00:17:36,376 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm4.mp3
+2025-08-18 00:17:36,406 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3 (status: mqtt)
+2025-08-18 00:17:36,406 - INFO - Kirim antrian alarm3/done (status: mqtt)
+2025-08-18 00:17:36,410 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:17:47,466 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm1.mp3
+2025-08-18 00:17:47,488 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3 (status: mqtt)
+2025-08-18 00:17:47,488 - INFO - Kirim antrian alarm4/play (status: mqtt)
+2025-08-18 00:17:47,491 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:17:58,606 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:17:58,628 - INFO - Alarm Play: /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3 (status: mqtt)
+2025-08-18 00:17:58,628 - INFO - Kirim antrian alarm4/done (status: mqtt)
+2025-08-18 00:17:58,631 - INFO - Play : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:18:09,736 - INFO - Done : /home/vas/NewVAS/Control/assets/alarm/alarm2.mp3
+2025-08-18 00:18:09,757 - INFO - Kirim antrian alarm1/play (status: mqtt)
+2025-08-18 00:18:09,781 - INFO - Kirim antrian alarm1/done (status: mqtt)
+2025-08-18 00:18:09,804 - INFO - Kirim antrian alarm2/play (status: mqtt)
+2025-08-18 00:18:09,827 - INFO - Kirim antrian alarm2/done (status: mqtt)
+2025-08-18 00:18:09,850 - INFO - Kirim antrian alarm2/play (status: mqtt)
+2025-08-18 00:18:09,874 - INFO - Kirim antrian alarm2/done (status: mqtt)
+2025-08-18 00:18:18,714 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:20:13,719 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:22:08,732 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:24:03,744 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:25:58,761 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:27:53,780 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:28:09,391 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:28:09,392 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:28:11,370 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:28:11,370 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:28:13,377 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:28:13,378 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:28:15,368 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:28:15,368 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:28:17,370 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:28:17,370 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:28:19,382 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:28:19,383 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:28:21,383 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:28:21,384 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:28:23,391 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:28:23,392 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:28:25,400 - INFO - Lamp ON (status: mqtt)
+2025-08-18 00:28:25,401 - INFO - Kirim antrian lamp/on (status: mqtt)
+2025-08-18 00:28:27,398 - INFO - Lamp OFF (status: mqtt)
+2025-08-18 00:28:27,398 - INFO - Kirim antrian lamp/off (status: mqtt)
+2025-08-18 00:29:48,787 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:31:43,804 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:33:38,817 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:35:11,677 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-08-18 00:35:11,678 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-08-18 00:35:17,772 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-08-18 00:35:17,804 - INFO - Kirim antrian tts/Ini adalah bunyi dari test suara TTS/play (status: mqtt)
+2025-08-18 00:35:17,833 - INFO - Kirim antrian tts/Ini adalah bunyi dari test suara TTS/done (status: mqtt)
+2025-08-18 00:35:33,828 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:37:23,420 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-08-18 00:37:23,420 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-08-18 00:37:29,518 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-08-18 00:37:29,541 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:37:29,541 - INFO - Kirim antrian tts/Ini adalah bunyi dari test suara TTS/play (status: mqtt)
+2025-08-18 00:37:29,564 - INFO - Kirim antrian tts/Ini adalah bunyi dari test suara TTS/done (status: mqtt)
+2025-08-18 00:39:24,544 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:41:19,558 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:43:14,573 - INFO - ✅ 1 data di 'queue' berhasil diupdate.
+2025-08-18 00:45:05,015 - ERROR - [ERROR] Gagal membaca collections one: interrupted at shutdown, full error: {'ok': 0.0, 'errmsg': 'interrupted at shutdown', 'code': 11600, 'codeName': 'InterruptedAtShutdown'}
+2025-08-18 00:45:36,099 - ERROR - [ERROR] Gagal membaca collections: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68a20774fd2e117056032066, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>

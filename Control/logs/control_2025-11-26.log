@@ -1,0 +1,443 @@
+2025-11-27 00:00:00,009 - INFO - [2025-11-27 00:00:00.009634] Collection 'requests' dihapus 30 dokumen.
+2025-11-27 00:00:00,020 - INFO - [2025-11-27 00:00:00.020177] Collection 'responses' dihapus 40 dokumen.
+2025-11-27 00:00:00,024 - INFO - [2025-11-27 00:00:00.024404] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-27 00:00:00,026 - INFO - [2025-11-27 00:00:00.026494] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-27 00:00:01,042 - INFO - [2025-11-27 00:00:01.042790] Collection 'requests' dihapus 0 dokumen.
+2025-11-27 00:00:01,046 - INFO - [2025-11-27 00:00:01.046743] Collection 'responses' dihapus 0 dokumen.
+2025-11-27 00:00:01,050 - INFO - [2025-11-27 00:00:01.050654] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-27 00:00:01,054 - INFO - [2025-11-27 00:00:01.054211] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-27 00:00:02,068 - INFO - [2025-11-27 00:00:02.068060] Collection 'requests' dihapus 0 dokumen.
+2025-11-27 00:00:02,071 - INFO - [2025-11-27 00:00:02.071660] Collection 'responses' dihapus 0 dokumen.
+2025-11-27 00:00:02,075 - INFO - [2025-11-27 00:00:02.074997] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-27 00:00:02,078 - INFO - [2025-11-27 00:00:02.078781] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-27 00:00:03,088 - INFO - [2025-11-27 00:00:03.088214] Collection 'requests' dihapus 0 dokumen.
+2025-11-27 00:00:03,090 - INFO - [2025-11-27 00:00:03.090622] Collection 'responses' dihapus 0 dokumen.
+2025-11-27 00:00:03,092 - INFO - [2025-11-27 00:00:03.092514] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-27 00:00:03,094 - INFO - [2025-11-27 00:00:03.094512] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-27 00:00:04,103 - INFO - [2025-11-27 00:00:04.103059] Collection 'requests' dihapus 0 dokumen.
+2025-11-27 00:00:04,105 - INFO - [2025-11-27 00:00:04.104964] Collection 'responses' dihapus 0 dokumen.
+2025-11-27 00:00:04,107 - INFO - [2025-11-27 00:00:04.107148] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-27 00:00:04,109 - INFO - [2025-11-27 00:00:04.109023] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-27 00:00:05,117 - INFO - [2025-11-27 00:00:05.117371] Collection 'requests' dihapus 0 dokumen.
+2025-11-27 00:00:05,119 - INFO - [2025-11-27 00:00:05.119571] Collection 'responses' dihapus 0 dokumen.
+2025-11-27 00:00:05,121 - INFO - [2025-11-27 00:00:05.121402] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-27 00:00:05,123 - INFO - [2025-11-27 00:00:05.123192] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-27 00:01:34,168 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:03:29,175 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:05:24,178 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:07:19,182 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:09:14,189 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:11:09,195 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:13:04,199 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:14:59,204 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:16:54,208 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:18:49,211 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:20:44,215 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:22:39,217 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:24:34,226 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:26:29,231 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:28:24,237 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:30:19,240 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:32:14,244 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:34:09,251 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:36:04,256 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:37:59,263 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:39:54,270 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:41:49,274 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:43:44,280 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:45:39,286 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:47:34,292 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:49:29,298 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:51:24,304 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:53:19,308 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:55:14,316 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:57:09,322 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 00:59:04,328 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:00:59,334 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:02:54,338 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:04:49,344 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:06:44,349 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:08:39,358 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:10:34,363 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:12:29,369 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:14:24,376 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:16:19,380 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:18:14,386 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:20:09,390 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:22:04,395 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:23:59,402 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:25:54,407 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:27:49,414 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:29:44,417 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:31:39,420 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:33:34,426 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:35:29,431 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:37:24,437 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:39:19,443 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:41:14,450 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:43:09,457 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:45:04,462 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:46:59,470 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:48:54,472 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:50:49,480 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:52:44,486 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:54:39,489 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:56:34,493 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 01:58:29,496 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:00:24,501 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:02:19,504 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:04:14,510 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:06:09,515 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:08:04,525 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:09:59,528 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:11:54,531 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:13:49,534 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:15:44,543 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:17:39,548 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:19:34,554 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:21:29,562 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:23:24,565 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:25:19,572 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:27:14,578 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:29:09,585 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:31:04,590 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:32:59,598 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:34:54,605 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:36:49,615 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:38:44,617 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:40:39,623 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:42:34,625 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:44:29,631 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:46:24,637 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:48:19,642 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:50:14,647 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:52:09,650 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:54:04,660 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:55:59,669 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:57:54,675 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 02:59:49,682 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:01:44,687 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:03:39,693 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:05:34,696 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:07:29,702 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:09:24,704 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:11:19,709 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:13:14,712 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:15:09,719 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:17:04,726 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:18:59,730 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:20:54,734 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:22:49,743 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:24:44,749 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:26:39,754 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:28:34,758 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:30:29,765 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:32:24,769 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:34:19,773 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:36:14,780 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:38:09,787 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:40:04,789 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:41:59,794 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:43:54,797 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:45:49,803 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:47:44,808 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:49:39,814 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:51:34,817 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:53:29,824 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:55:24,829 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:57:19,831 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 03:59:14,838 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:01:09,845 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:03:04,850 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:04:59,855 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:06:54,862 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:08:49,868 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:10:44,871 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:12:39,877 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:14:34,879 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:16:29,885 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:18:24,889 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:20:19,895 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:22:14,898 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:24:09,902 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:26:04,906 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:27:59,912 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:29:54,917 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:31:49,924 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:33:44,928 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:35:39,932 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:37:34,935 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:39:29,938 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:41:24,942 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:43:19,946 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:45:14,954 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:47:09,959 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:49:04,964 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:50:59,970 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:52:54,974 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:54:49,977 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:56:44,980 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 04:58:39,984 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:00:34,989 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:02:29,994 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:04:24,999 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:06:20,010 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:08:15,014 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:10:10,019 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:12:05,023 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:14:00,027 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:15:55,031 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:17:50,035 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:19:45,041 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:21:40,043 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:23:35,049 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:25:30,052 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:27:25,057 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:29:20,064 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:31:15,068 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:33:10,071 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:35:05,075 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:37:00,083 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:38:55,090 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:40:50,095 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:42:45,103 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:44:40,109 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:46:35,115 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:48:30,120 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:50:25,128 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:52:20,131 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:54:15,137 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:56:10,142 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 05:58:05,146 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:00:00,152 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:01:55,157 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:03:50,161 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:05:45,165 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:07:40,174 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:09:35,178 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:11:30,188 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:13:25,194 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:15:20,204 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:17:15,208 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:19:10,213 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:21:05,217 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:23:00,220 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:24:55,223 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:26:50,227 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:28:45,231 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:30:40,236 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:32:35,240 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:34:30,246 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:36:25,254 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:38:20,258 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:40:15,264 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:42:10,266 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:44:05,275 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:46:00,281 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:47:55,285 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:49:50,290 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:51:45,294 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:53:40,297 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:55:35,300 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:57:30,303 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 06:59:25,311 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:01:20,318 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:03:15,325 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:05:10,332 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:07:05,335 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:09:00,340 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:10:55,343 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:12:50,349 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:14:45,353 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:16:40,361 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:18:35,367 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:20:30,371 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:22:25,375 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:24:20,379 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:26:15,384 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:28:10,391 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:30:05,394 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:32:00,401 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:33:55,406 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:35:50,413 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:37:45,416 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:39:40,419 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:41:35,426 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:43:30,429 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:45:25,436 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:47:20,439 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:49:15,446 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:51:10,452 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:53:05,457 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:55:00,464 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:56:55,468 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 07:58:50,474 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:00:45,481 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:02:40,486 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:04:35,494 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:06:30,497 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:08:25,507 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:10:20,515 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:12:15,518 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:14:10,520 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:16:05,527 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:18:00,536 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:19:55,540 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:21:50,548 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:23:45,555 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:25:40,561 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:27:35,564 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:29:30,569 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:31:25,574 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:33:20,578 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:35:15,585 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:37:10,589 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:39:05,593 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:41:00,598 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:42:55,604 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:44:50,609 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:46:45,611 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:48:40,618 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:50:35,623 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:52:30,627 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:54:25,630 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:56:20,639 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 08:58:15,644 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:00:10,650 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:02:05,656 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:04:00,661 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:05:55,667 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:07:50,670 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:09:45,674 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:11:40,679 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:13:35,685 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:15:30,687 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:17:25,693 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:19:20,699 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:21:15,702 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:23:10,707 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:25:05,712 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:27:00,719 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:28:55,724 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:30:50,733 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:32:45,740 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:34:40,744 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:36:35,751 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:38:30,755 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:40:25,760 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:42:20,766 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:44:15,769 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:46:10,773 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:48:05,777 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:50:00,779 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:51:55,785 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:53:50,789 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:55:45,793 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:57:40,798 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 09:59:35,803 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:01:30,806 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:03:25,809 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:05:20,816 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:07:15,819 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:09:10,823 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:11:05,830 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:13:00,837 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:14:55,842 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:16:24,734 - INFO - [2025-11-27 10:16:24.733968] Collection 'requests' dihapus 0 dokumen.
+2025-11-27 10:16:24,735 - INFO - [2025-11-27 10:16:24.735874] Collection 'responses' dihapus 0 dokumen.
+2025-11-27 10:16:24,738 - INFO - [2025-11-27 10:16:24.738170] Collection 'system_status_res' dihapus 0 dokumen.
+2025-11-27 10:16:24,740 - INFO - [2025-11-27 10:16:24.740054] Collection 'system_status_req' dihapus 0 dokumen.
+2025-11-27 10:16:25,740 - INFO - Restarting Services...
+2025-11-27 10:16:50,845 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:18:45,849 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:20:40,852 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:22:35,857 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:23:19,773 - INFO - Lamp ON (status: local)
+2025-11-27 10:23:20,878 - INFO - Lamp OFF (status: local)
+2025-11-27 10:23:22,957 - INFO - Lamp ON (status: local)
+2025-11-27 10:23:24,022 - INFO - Lamp OFF (status: local)
+2025-11-27 10:23:25,084 - INFO - Lamp ON (status: local)
+2025-11-27 10:23:26,149 - INFO - Lamp OFF (status: local)
+2025-11-27 10:23:27,215 - INFO - Lamp ON (status: local)
+2025-11-27 10:23:28,275 - INFO - Lamp OFF (status: local)
+2025-11-27 10:23:29,339 - INFO - Lamp ON (status: local)
+2025-11-27 10:23:30,403 - INFO - Lamp OFF (status: local)
+2025-11-27 10:24:30,861 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:25:27,056 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:26:25,869 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:26:26,972 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:26:36,981 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:26:46,981 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:26:56,971 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:27:07,011 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:27:17,003 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:27:27,022 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:27:37,025 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:27:47,022 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:27:57,015 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:28:20,876 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:29:06,703 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:29:16,705 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:29:26,698 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:29:36,717 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:29:46,721 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:29:56,700 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:30:06,985 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:30:15,880 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:30:16,744 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:30:26,745 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:30:37,144 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:30:52,669 - INFO - TTS Play: Ini adalah bunyi dari test suara TTS (status: mqtt)
+2025-11-27 10:30:54,171 - INFO - Play : Ini adalah bunyi dari test suara TTS
+2025-11-27 10:31:00,257 - INFO - Done : Ini adalah bunyi dari test suara TTS
+2025-11-27 10:32:10,886 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:34:05,893 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:36:00,900 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:37:38,993 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:37:49,019 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:37:55,905 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:37:59,018 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:38:09,046 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:38:19,011 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:38:29,050 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:38:39,066 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:38:49,302 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:38:59,462 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:39:09,710 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:39:50,916 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:41:45,920 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:43:38,154 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:43:40,925 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:43:48,245 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:43:58,330 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:44:08,449 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:44:18,708 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:44:28,580 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:44:38,583 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:44:49,374 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:44:59,632 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:45:09,873 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:45:25,728 - INFO - Alarm Play: alarm2 (status: mqtt)
+2025-11-27 10:45:27,230 - INFO - Play : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-11-27 10:45:38,358 - INFO - Done : /home/vas1/VAS/Control/assets/alarm/alarm2.mp3
+2025-11-27 10:45:38,366 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:47:33,373 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:49:28,379 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:51:23,383 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:52:42,576 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:52:52,578 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:53:02,581 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:53:12,606 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:53:18,389 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:53:22,600 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:53:32,597 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:53:42,591 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:53:52,610 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:54:02,630 - INFO - Lamp ON (status: mqtt)
+2025-11-27 10:54:12,672 - INFO - Lamp OFF (status: mqtt)
+2025-11-27 10:55:13,392 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:57:08,401 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 10:59:03,406 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 11:00:58,411 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 11:02:53,420 - INFO - 1 data di 'queue' berhasil diupdate.
+2025-11-27 11:04:48,428 - INFO - 1 data di 'queue' berhasil diupdate.

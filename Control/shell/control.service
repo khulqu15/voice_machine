@@ -1,0 +1,16 @@
+[Unit]
+Description=-Control Application
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=10
+User=vas1
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+ExecStart=/bin/bash /home/vas1/VAS/Control/shell/run.sh
+ExecStop=/bin/kill -s SIGTERM $MAINPID
+
+[Install]
+WantedBy=multi-user.target

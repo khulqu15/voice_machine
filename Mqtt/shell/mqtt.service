@@ -1,0 +1,20 @@
+[Unit]
+Description=-MQTT Application
+After=network.target
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5
+User=vas1
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+ExecStart=/bin/bash /home/vas1/VAS/Mqtt/shell/run.sh
+ExecStop=/bin/kill -s SIGTERM $MAINPID
+
+StartLimitIntervalSec=20
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
