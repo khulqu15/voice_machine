@@ -61,4 +61,3 @@ def get_temperature()->float:
     if 'cpu_thermal' in temp:
         return temp['cpu_thermal'][0].current
     return None
-w
