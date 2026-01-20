@@ -6,7 +6,7 @@ import time
 from pydub import AudioSegment
 from pydub.playback import play
 from dotenv import load_dotenv
-import os
+import osw
 
 load_dotenv()
 
