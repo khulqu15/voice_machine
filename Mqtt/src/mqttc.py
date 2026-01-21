@@ -31,7 +31,7 @@ class MQTT:
 
         # Set up MQTT
         self.mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, protocol=mqtt.MQTTv5)
-        #self.mqtt_client.tls_set(tls_version=mqtt.ssl.PROTOCOL_TLS)
+        #self.mqtt_client.tls_set(tls_version=m==zzzzzzzzzzzzzzzzzzzzzzqtt.ssl.PROTOCOL_TLS)
         self.mqtt_client.username_pw_set(username=self.username, password=self.password)
         self.mqtt_client.on_connect = self.__on_connect
         self.mqtt_client.on_message = self.__on_message

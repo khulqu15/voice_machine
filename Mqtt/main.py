@@ -23,13 +23,14 @@ if __name__ == '__main__':
     config.read(config_file)
 
     _dev_id = config.get('Device', 'device_id')
-
+    print("MQTT RUNNING CONFIG")
     mq = MQTT(device_id=_dev_id,
             host=config.get('Cloud', 'host'),
             port=int(config.getint('Cloud', 'port')),
             username=config.get('User', 'username'),
             password=config.get('User', 'password'),
             master_password=config.get('Device', 'master_password'))
+    print("START LOOPING")
     
     mq.start_loop()
     mq.wait_for_connection()
