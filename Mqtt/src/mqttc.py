@@ -263,6 +263,11 @@ class MQTT:
             tts_path = "tts/temp_tts.mp3"
             tts = gTTS(text=tts_text, lang='id')
             tts.save(tts_path)
+            if os.path.exists(tts_path):
+                pygame.mixer.music.load(tts_path)
+                pygame.mixer.music.play()
+                while pygame.mixer.music.get_busy():
+                    pygame.time.Clock().tick(10)
 
         else:
             Logger.warning(f"Unknown command: {command}")
