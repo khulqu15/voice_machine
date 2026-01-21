@@ -9,6 +9,9 @@ from .sys_util import StatusControl
 import asyncio
 import sys
 import queue
+from gtts import gTTS
+from playsound import playsound
+import os
 import ssl
 
 
@@ -133,8 +136,6 @@ class MQTT:
             self.is_connect = True
         else:
             Logger.error(f"MQTT connection failed: {reason_code}")
-
-
 
     # Callback function when a message is received
     def __on_message(self, client, userdata, msg):
@@ -371,11 +372,35 @@ class MQTT:
                 self.mqtt_client.publish(topic=f'{self.device_id}/status/voice', payload=f'Play : {_alarmMessage}.mp3', qos=2, retain=False)
 
             elif 'tts' in message:
-                _ttsMessage = message.split("/")[1]
-                if len(_ttsMessage) > 18:
-                    _ttsMessage = _ttsMessage[:15] + "..."
-                Logger.info(f'Play: {_ttsMessage}')
-                self.mqtt_client.publish(topic=f'{self.device_id}/status/voice', payload=f'Play : {_ttsMessage}', qos=2, retain=False)
+                _ttsText = message.split("/")[1]
+                if len(_ttsText) > 18:
+                    _ttsText = _ttsText[:15] + "..."
+                
+                Logger.info(f'Play: {_ttsText}')
+                
+                # 1️⃣ Mainkan opening.mp3 dulu
+                opening_path = "tts/opening.mp3"
+                if os.path.exists(opening_path):
+                    Logger.info("Playing opening.mp3")
+                    playsound(opening_path)
+                
+                # 2️⃣ Generate gTTS dari text
+                tts_path = f"tts/{_ttsText}.mp3"
+                tts = gTTS(text=_ttsText, lang='en')
+                tts.save(tts_path)
+                
+                # Mainkan hasil gTTS
+                Logger.info(f"Playing TTS: {_ttsText}")
+                playsound(tts_path)
+                
+                # Publish status ke MQTT
+                self.mqtt_client.publish(
+                    topic=f'{self.device_id}/status/voice',
+                    payload=f'Done : {_ttsText}',
+                    qos=2,
+                    retain=False
+                )
+
            
     async def __async_task(self):
         while True:
