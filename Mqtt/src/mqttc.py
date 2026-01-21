@@ -116,6 +116,7 @@ class MQTT:
     # Callback function when the MQTT connection is established 
     def __on_connect(self, client, userdata, flags, reason_code, properties):
         Logger.info(f"MQTT Connected (v5) reason_code={reason_code}")
+        print(f"MQTT Connected (v5) reason_code={reason_code}")
         if reason_code == mqtt.ReasonCodes.SUCCESS:
             self.is_connect = True
         else:
