@@ -181,56 +181,62 @@ class MQTT:
             self.mqtt_client.publish(topic='device', payload=_dev_info, qos=2, retain=False)
             return
         
-        _ = msg.topic.split("/")
-        msg_type = "0"
-        msg_target = "00"
-        if len(_) > 1:
-            msg_type = _[1]
-        
-        _ = self.last_msg.split("/")
-        if len(_) > 1:
-            msg_target = _[0]
+        topic_parts = msg.topic.split("/")
+        if len(topic_parts) < 2:
+            return
 
-        # Unicast request
-        if msg_type == 'unicast' and self.device_id.lower() == msg_target.lower():
-            if self.last_msg == f'{self.device_id}/status':
-                StatusControl.statusMessage[0] = 1
-            
-            elif self.last_msg == f'{self.device_id}/lamp/on':
-                try:
-                    StatusControl.add_message_to_queue_mqtt("on")
-                except KeyboardInterrupt:
-                    pass
-            
-            elif self.last_msg == f'{self.device_id}/lamp/off':
-                try:
-                    StatusControl.add_message_to_queue_mqtt("off")
+        sender = topic_parts[0]
+        msg_type = topic_parts[1]
 
-                except KeyboardInterrupt:
-                    pass
-            
-            elif self.last_msg == f'{self.device_id}/reboot':
-                Logger.info('Reboot System Request')
-                try:
-                    self.mqtt_client.publish(topic=f'{self.device_id}/response', payload='Reboot System. Please try to reconnect in 6 minutes ahead.', qos=2, retain=False)
-                    Logger.info('Reboot System Request')
-                except:
-                    pass
-                os.system("sudo reboot")
-                sys.exit()
-                return
+        payload_parts = self.last_msg.split("/")
+        if len(payload_parts) < 2:
+            return
 
-            _ = self.last_msg.split("/")
-            if len(_) > 2:
-                if _[1] == 'play':
-                    self.__add_message_to_queue(f'play/{_[2]}')
-                    StatusControl.add_message_to_queue_mqtt(f'play/{_[2]}')
-                elif _[1] == 'tts':
-                    self.__add_message_to_queue(f'tts/{_[2]}')
-                    StatusControl.add_message_to_queue_mqtt(f'tts/{_[2]}')
-                
-    
-        # Callback Function when MQTT subscribe
+        target_device = payload_parts[0].strip().lower()
+        command = "/".join(payload_parts[1:]).strip().lower()
+
+        if msg_type != "unicast":
+            return
+
+        if target_device != self.device_id.lower():
+            Logger.debug(f"Command ignored: target={target_device}")
+            return
+
+        Logger.info(f"UNICAST CMD → {command}")
+
+        if command == "status":
+            StatusControl.statusMessage[0] = 1
+
+        elif command == "lamp/on":
+            StatusControl.add_message_to_queue_mqtt("on")
+
+        elif command == "lamp/off":
+            StatusControl.add_message_to_queue_mqtt("off")
+
+        elif command == "reboot":
+            Logger.warning("Reboot System Request")
+            self.mqtt_client.publish(
+                topic=f'{self.device_id}/response',
+                payload='Rebooting device. Please reconnect in ~6 minutes.',
+                qos=2,
+                retain=False
+            )
+            os.system("sudo reboot")
+            sys.exit(0)
+
+        elif command.startswith("play/"):
+            alarm_name = command.split("/", 1)[1]
+            self.__add_message_to_queue(f'play/{alarm_name}')
+            StatusControl.add_message_to_queue_mqtt(f'play/{alarm_name}')
+
+        elif command.startswith("tts/"):
+            tts_text = command.split("/", 1)[1]
+            self.__add_message_to_queue(f'tts/{tts_text}')
+            StatusControl.add_message_to_queue_mqtt(f'tts/{tts_text}')
+
+        else:
+            Logger.warning(f"Unknown command: {command}")
+
     def __on_subscribe(self, client, userdata, mid, granted_qos, properties=None):
         pass
 
