@@ -129,8 +129,7 @@ class MQTT:
     def __on_connect(self, client, userdata, flags, reason_code, properties):
         Logger.info(f"MQTT Connected (v5) reason_code={reason_code}")
         print(f"MQTT Connected (v5) reason_code={reason_code}")
-
-        if reason_code.is_success():
+        if reason_code == 'Success':
             self.is_connect = True
         else:
             Logger.error(f"MQTT connection failed: {reason_code}")
