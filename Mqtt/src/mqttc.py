@@ -247,6 +247,7 @@ class MQTT:
             self.__add_message_to_queue(f'play/{alarm_name}')
             StatusControl.add_message_to_queue_mqtt(f'play/{alarm_name}')
 
+        elif command.startswith("tts/"):
             tts_text = command.split("/", 1)[1]
             # Inisialisasi pygame mixer jika belum
             if not pygame.mixer.get_init():
