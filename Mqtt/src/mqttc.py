@@ -85,19 +85,9 @@ class MQTT:
     def main_run(self):
         asyncio.run(self.__async_task())
 
-    def __on_disconnected(self, client, userdata, flags, rc, properties):
-        if rc != 0:
-            try:
-                Logger.warning("Unexpected disconnection. Reconnecting...")
-                client.reconnect()
-                self.wait_for_connection()
-                self.subscribe("unregister")
-                self.subscribe("register")
-                self.subscribe("who")
-            except Exception as e:
-                Logger.error(f"Reconnection failed: {e}")
-                self.is_connect = False
-
+    def __on_disconnected(self, client, userdata, reason_code, properties):
+        Logger.warning(f"MQTT Disconnected reason_code={reason_code}")
+        self.is_connect = False
 
     def __on_socket_close(self, client, userdata, sock):
         Logger.critical("Socket closed. Please check the network connection.")
@@ -121,12 +111,12 @@ class MQTT:
         self.mqtt_client.loop_stop()
 
     # Callback function when the MQTT connection is established 
-    def __on_connect(self, client, userdata, flags, rc):
-        Logger.info(f"MQTT Connected with code {rc}")
-        if rc == 0:
+    def __on_connect(self, client, userdata, flags, reason_code, properties):
+        Logger.info(f"MQTT Connected (v5) reason_code={reason_code}")
+        if reason_code == mqtt.ReasonCodes.SUCCESS:
             self.is_connect = True
         else:
-            Logger.error(f"MQTT Connection failed: {rc}")
+            Logger.error(f"MQTT connection failed: {reason_code}")
 
 
     # Callback function when a message is received
