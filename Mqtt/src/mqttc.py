@@ -284,6 +284,11 @@ class MQTT:
                 while pygame.mixer.music.get_busy():
                     pygame.time.Clock().tick(10)
 
+        elif command == "stop":
+            if pygame.mixer.get_init():
+                pygame.mixer.music.stop()
+                Logger.info("Audio playback dihentikan")
+
         else:
             Logger.warning(f"Unknown command: {command}")
 
