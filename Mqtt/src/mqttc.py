@@ -30,7 +30,7 @@ class MQTT:
         self.list_task = []
 
         # Set up MQTT
-        self.mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, protocol=mqtt.MQTTv5)
+        self.mqtt_client = mqtt.Client(protocol=mqtt.MQTTv311)
         #self.mqtt_client.tls_set(tls_version=mqtt.ssl.PROTOCOL_TLS)
         self.mqtt_client.username_pw_set(username=self.username, password=self.password)
         self.mqtt_client.on_connect = self.__on_connect
@@ -121,10 +121,12 @@ class MQTT:
         self.mqtt_client.loop_stop()
 
     # Callback function when the MQTT connection is established 
-    def __on_connect(self, client, userdata, flags, reason_code, properties):
-        Logger.info(f"MQTT Connection : {reason_code}")
-        self.is_connect = True
-        self.__init_prev_client()
+    def __on_connect(self, client, userdata, flags, rc):
+        Logger.info(f"MQTT Connected with code {rc}")
+        if rc == 0:
+            self.is_connect = True
+        else:
+            Logger.error(f"MQTT Connection failed: {rc}")
 
     # Callback function when a message is received
     def __on_message(self, client, userdata, msg):
