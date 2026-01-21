@@ -145,7 +145,8 @@ class MQTT:
 
         _s_msg = str(msg.payload.decode('utf-8'))
         Logger.info(f'{msg.topic} -> {_s_msg}')
-        
+        print(f"msg.topic {msg.topic}")
+        print(f"msg {_s_msg}")
         # Reject the message if it is retained
         if msg.retain:
             return
@@ -249,6 +250,7 @@ class MQTT:
 
         elif command.startswith("tts/"):
             tts_text = command.split("/", 1)[1]
+            
             # Inisialisasi pygame mixer jika belum
             if not pygame.mixer.get_init():
                 pygame.mixer.init()
