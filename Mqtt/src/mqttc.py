@@ -88,8 +88,8 @@ class MQTT:
     def main_run(self):
         asyncio.run(self.__async_task())
 
-    def __on_disconnected(self, client, userdata, reason_code, properties):
-        Logger.warning(f"MQTT Disconnected reason_code={reason_code}")
+    def __on_disconnected(self, client, userdata, *args):
+        Logger.warning("MQTT Disconnected")
         self.is_connect = False
 
     def __on_socket_close(self, client, userdata, sock):
