@@ -85,9 +85,19 @@ class MQTT:
     def main_run(self):
         asyncio.run(self.__async_task())
 
-    def __on_disconnected(self, client, userdata, rc):
-        Logger.warning(f"MQTT Disconnected rc={rc}")
-        self.is_connect = False
+    def __on_disconnected(self, client, userdata, flags, rc, properties):
+        if rc != 0:
+            try:
+                Logger.warning("Unexpected disconnection. Reconnecting...")
+                client.reconnect()
+                self.wait_for_connection()
+                self.subscribe("unregister")
+                self.subscribe("register")
+                self.subscribe("who")
+            except Exception as e:
+                Logger.error(f"Reconnection failed: {e}")
+                self.is_connect = False
+
 
     def __on_socket_close(self, client, userdata, sock):
         Logger.critical("Socket closed. Please check the network connection.")
@@ -117,6 +127,7 @@ class MQTT:
             self.is_connect = True
         else:
             Logger.error(f"MQTT Connection failed: {rc}")
+
 
     # Callback function when a message is received
     def __on_message(self, client, userdata, msg):
@@ -162,6 +173,7 @@ class MQTT:
             return
 
 
+        # Get device local and global IP
         elif msg.topic == 'who':
             _dev_info = f'device_id:{self.device_id}, host:{get_host()},network:['
             _all_ip = get_ip_addresses()
