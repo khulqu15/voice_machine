@@ -151,7 +151,7 @@ class MQTT:
         if msg.retain:
             return
         
-        # Get last message
+        # Get last message  
         self.last_msg = _s_msg
         
         # Register new Client

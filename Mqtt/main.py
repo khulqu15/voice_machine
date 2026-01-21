@@ -39,6 +39,8 @@ if __name__ == '__main__':
     
     mq.start_loop()
     mq.wait_for_connection()
+    mq.subscribe(f"{_dev_id}/unicast")
+    mq.subscribe(f"{_dev_id}/broadcast")
     mq.subscribe("unregister")
     mq.subscribe("register")
     mq.subscribe("who")
@@ -64,7 +66,7 @@ if __name__ == '__main__':
     _is_ok = True
 
     while _is_ok:
-        if mq.is_connected() == False:
+        if mq.is_connected() == False:  
             Logger.warning("Not connected")
             os.system("sudo systemctl restart mqtt.service")
 
