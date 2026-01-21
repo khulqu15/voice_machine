@@ -34,6 +34,18 @@ class MQTT:
             mqtt.CallbackAPIVersion.VERSION2,
             protocol=mqtt.MQTTv5
         )
+        
+        self.mqtt_client.username_pw_set(self.username, self.password)
+
+        self.mqtt_client.tls_set(
+            tls_version=ssl.PROTOCOL_TLS_CLIENT
+        )
+
+        self.mqtt_client.connect_async(
+            host=self.host,
+            port=8883,
+            keepalive=60
+        )
         #self.mqtt_client.tls_set(tls_version=mqtt.ssl.PROTOCOL_TLS)
         self.mqtt_client.username_pw_set(username=self.username, password=self.password)
         self.mqtt_client.on_connect = self.__on_connect
