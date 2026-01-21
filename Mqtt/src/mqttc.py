@@ -250,37 +250,19 @@ class MQTT:
 
         elif command.startswith("tts/"):
             tts_text = command.split("/", 1)[1]
-            
-            # Inisialisasi pygame mixer jika belum
+            if not os.path.exists("tts"):
+                os.makedirs("tts")
             if not pygame.mixer.get_init():
                 pygame.mixer.init()
-
-            # Putar opening.mp3 dulu
             opening_path = "tts/opening.mp3"
             if os.path.exists(opening_path):
                 pygame.mixer.music.load(opening_path)
                 pygame.mixer.music.play()
                 while pygame.mixer.music.get_busy():
                     pygame.time.Clock().tick(10)
-
-            # Buat TTS dan simpan sementara
             tts_path = "tts/temp_tts.mp3"
             tts = gTTS(text=tts_text, lang='id')
             tts.save(tts_path)
-
-            # Putar TTS
-            pygame.mixer.music.load(tts_path)
-            pygame.mixer.music.play()
-            while pygame.mixer.music.get_busy():
-                pygame.time.Clock().tick(10)
-
-            # Hapus file sementara jika perlu
-            if os.path.exists(tts_path):
-                os.remove(tts_path)
-
-            # Masukkan ke queue MQTT juga (optional)
-            self.__add_message_to_queue(f'tts/{tts_text}')
-            StatusControl.add_message_to_queue_mqtt(f'tts/{tts_text}')
 
         else:
             Logger.warning(f"Unknown command: {command}")
