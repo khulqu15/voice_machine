@@ -34,7 +34,7 @@ if __name__ == '__main__':
     print(f"Host {config.get('Cloud', 'host')}")
     print(f"Port {config.get('Cloud', 'port')}")
     print(f"Username {config.get('User', 'username')}")
-    print(f"Password {config.get('User', 'username')}")
+    print(f"Password {config.get('User', 'password')}")
     print(f"Device {config.get('Device', 'master_password')}")
     
     mq.start_loop()
