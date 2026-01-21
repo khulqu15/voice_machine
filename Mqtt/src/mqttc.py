@@ -74,9 +74,13 @@ class MQTT:
             self.add_new_client(client)
 
     # Wait for internet conenction
-    def wait_for_connection(self):
-        while not self.is_connected():
-            sleep(1)
+    def wait_for_connection(self, timeout=15):
+        start = time.time()
+        while not self.is_connect:
+            if time.time() - start > timeout:
+                print("Timeout")
+                raise TimeoutError("MQTT connection timeout")
+            sleep(0.5)
 
     def main_run(self):
         asyncio.run(self.__async_task())
