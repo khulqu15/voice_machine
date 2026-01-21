@@ -31,6 +31,11 @@ if __name__ == '__main__':
             password=config.get('User', 'password'),
             master_password=config.get('Device', 'master_password'))
     print("START LOOPING")
+    print(f"Host {config.get('Cloud', 'host')}")
+    print(f"Port {config.get('Cloud', 'port')}")
+    print(f"Username {config.get('User', 'username')}")
+    print(f"Password {config.get('User', 'username')}")
+    print(f"Device {config.get('Device', 'master_password')}")
     
     mq.start_loop()
     mq.wait_for_connection()
