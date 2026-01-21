@@ -57,7 +57,7 @@ class MQTT:
                 Logger.error(f"Connection attempt {attempt} failed: {e}")
                 self.mqttConnect = False
                 time.sleep(10)
-                return
+                continue
         
         if not self.mqttConnect:
             print(f"Restart Service")
@@ -119,8 +119,8 @@ class MQTT:
     # Callback function when the MQTT connection is established 
     def __on_connect(self, client, userdata, flags, reason_code, properties):
         Logger.info(f"MQTT Connection : {reason_code}")
-        self.__init_prev_client()
         self.is_connect = True
+        self.__init_prev_client()
 
     # Callback function when a message is received
     def __on_message(self, client, userdata, msg):
@@ -138,26 +138,33 @@ class MQTT:
         # Register new Client
         if msg.topic == 'register':
             Logger.info(f"Register : {self.last_msg}")
-            parsed_strings = self.last_msg.split("/")
-            _username = parsed_strings[0] if len(parsed_strings) > 0 and parsed_strings[0] != '' else None
-            _password = parsed_strings[1] if len(parsed_strings) > 1 else None
-            if _password == self.master_password and _username != None:
-                if not self.add_new_client(_username):
-                    return
-            else:
-                Logger.warning(f"Register is rejected ({_username}->{_password})")
+            parts = self.last_msg.split("/")
+            if len(parts) != 2:
+                Logger.warning("Register format invalid. Use username/master_password")
+                return
+            username, password = parts
+            if password != self.master_password:
+                Logger.warning("Register rejected: wrong master password")
+                return
+            if not username:
+                Logger.warning("Register rejected: empty username")
+                return
+            self.add_new_client(username)
             return
         
         # Unregister Client
         elif msg.topic == 'unregister':
-            parsed_strings = self.last_msg.split("/")
-            _username = parsed_strings[0] if len(parsed_strings) > 0 and parsed_strings[0] != '' else None
-            _password = parsed_strings[1] if len(parsed_strings) > 1 else None
-            if _password == self.master_password and _username != None:
-                self.remove_client(_username)
-            else:
-                Logger.warning(f"Register is rejected ({_username}->{_password})")
+            parts = self.last_msg.split("/")
+            if len(parts) != 2:
+                Logger.warning("Unregister format invalid")
+                return
+            username, password = parts
+            if password != self.master_password:
+                Logger.warning("Unregister rejected: wrong master password")
+                return
+            self.remove_client(username)
             return
+
 
         # Get device local and global IP
         elif msg.topic == 'who':
