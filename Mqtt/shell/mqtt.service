@@ -1,20 +1,15 @@
 [Unit]
-Description=-MQTT Application
-After=network.target
-Wants=network-online.target
+Description=MQTT Application
 After=network-online.target
+Wants=network-online.target
 
 [Service]
 Type=simple
-Restart=always
-RestartSec=5
 User=pi
-Environment=XDG_RUNTIME_DIR=/run/user/1000
-ExecStart=/bin/bash /home/pi/voice_machine/Mqtt/shell/run.sh
-ExecStop=/bin/kill -s SIGTERM $MAINPID
-
-StartLimitIntervalSec=20
-StartLimitBurst=5
+WorkingDirectory=/home/pi/voice_machine/Mqtt
+ExecStart=/home/pi/voice_machine/venv/bin/python3 main.py
+Restart=on-failure
+RestartSec=5
 
 [Install]
 WantedBy=multi-user.target
