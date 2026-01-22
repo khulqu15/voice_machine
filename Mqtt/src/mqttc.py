@@ -47,9 +47,14 @@ class MQTT:
             tls_version=ssl.PROTOCOL_TLS_CLIENT
         )
 
-        self.mqtt_client.connect_async(
+        # self.mqtt_client.connect_async(
+        #     host=self.host,
+        #     port=8883,
+        #     keepalive=60
+        # )
+        self.mqtt_client.connect(
             host=self.host,
-            port=8883,
+            port=self.port,
             keepalive=60
         )
         #self.mqtt_client.tls_set(tls_version=mqtt.ssl.PROTOCOL_TLS)
@@ -82,12 +87,16 @@ class MQTT:
         
         if not self.mqttConnect:
             print(f"Restart Service")
-            # os.system(f"sudo systemctl restart mqtt.service")
-            sys.exit(1)
+            Logger.error("Initial MQTT connection failed, will retry in main loop")
+            # sys.exit(1)
 
         # Set up client
         self.clients = Client()
 
+    def reconnect(self):
+        if not self.mqtt_client.is_connected():
+            Logger.warning("Reconnecting MQTT...")
+            self.mqtt_client.reconnect()
 
     # Subscribe to all topics
     def __init_prev_client(self):
@@ -104,7 +113,10 @@ class MQTT:
             sleep(0.5)
 
     def main_run(self):
-        asyncio.run(self.__async_task())
+        # asyncio.run(self.__async_task())
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        loop.run_until_complete(self.__async_task())
 
     def __on_disconnected(self, client, userdata, *args):
         Logger.warning("MQTT Disconnected")

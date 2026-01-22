@@ -9,7 +9,8 @@ User=pi
 WorkingDirectory=/home/pi/voice_machine/Mqtt
 ExecStart=/home/pi/voice_machine/venv/bin/python3 main.py
 Restart=on-failure
-RestartSec=5
+RestartSec=10
+TimeoutStopSec=5
 
 [Install]
 WantedBy=multi-user.target
