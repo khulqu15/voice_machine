@@ -7,9 +7,9 @@ Wants=network-online.target
 Type=simple
 Restart=always
 RestartSec=10
-User=vas1
+User=pi
 Environment=XDG_RUNTIME_DIR=/run/user/1000
-ExecStart=/bin/bash /home/vas1/VAS/Monitor/shell/run.sh
+ExecStart=/bin/bash /home/pi/voice_machine/Monitor/shell/run.sh
 ExecStop=/bin/kill -s SIGTERM $MAINPID
 
 [Install]
