@@ -66,13 +66,13 @@ if __name__ == '__main__':
     _is_ok = True
 
     while _is_ok:
-        if mq.is_connected() == False:  
-            Logger.warning("Not connected")
-            os.system("sudo systemctl restart mqtt.service")
+        if not mq.is_connected():
+            Logger.warning("MQTT disconnected, trying reconnect")
+            try:
+                mq.reconnect()
+            except Exception as e:
+                Logger.error(f"Reconnect failed: {e}")
 
-        elif mq.is_connect == False:
-            Logger.warning("Not connected 2")
-            os.system("sudo systemctl restart mqtt.service")
             
         elif time.time() - start_time > 60:
             mq.publish_temperature()
