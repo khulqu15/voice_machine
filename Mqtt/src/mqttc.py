@@ -245,13 +245,36 @@ class MQTT:
 
         elif command.startswith("play/"):
             alarm_name = command.split("/", 1)[1]
+            alarm_path = f"alarm/{alarm_name}.mp3" 
             self.__add_message_to_queue(f'play/{alarm_name}')
             StatusControl.add_message_to_queue_mqtt(f'play/{alarm_name}')
-
+            if os.path.exists(alarm_path):
+                if not pygame.mixer.get_init():
+                    pygame.mixer.init()
+                pygame.mixer.music.load(alarm_path)
+                pygame.mixer.music.play()
+                while pygame.mixer.music.get_busy():
+                    pygame.time.Clock().tick(10)
+            else:
+                Logger.warning(f"File alarm tidak ditemukan: {alarm_path}")
+                
         elif command.startswith("tts/"):
             tts_text = command.split("/", 1)[1]
             self.__add_message_to_queue(f'tts/{tts_text}')
             StatusControl.add_message_to_queue_mqtt(f'tts/{tts_text}')
+            if not os.path.exists("tts"):
+                os.makedirs("tts")
+            if not pygame.mixer.get_init():
+                pygame.mixer.init()
+            opening_path = "tts/opening.mp3"
+            if os.path.exists(opening_path):
+                pygame.mixer.music.load(opening_path)
+                pygame.mixer.music.play()
+                while pygame.mixer.music.get_busy():
+                    pygame.time.Clock().tick(10)
+            tts_path = "tts/temp_tts.mp3"
+            tts = gTTS(text=tts_text, lang='id')
+            tts.save(tts_path)
 
         elif command == "stop":
             if pygame.mixer.get_init():
