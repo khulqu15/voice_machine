@@ -9,7 +9,7 @@ import threading
 
 # === KONFIGURASI ===
 SERVICE_NAME = "mqtt.service"
-DEVICE_NAME = "VAS1"
+DEVICE_NAME = "p1"
 CHECK_INTERVAL = 10  # detik
 NOTIF_TIMEOUT = 10  # detik
 
